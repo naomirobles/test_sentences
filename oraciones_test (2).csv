@@ -1,0 +1,601 @@
+id,fuente,archivo,oracion,longitud,row_id,direction,pictos_ref
+es-0001,propicto,,son los gobernantes más antiguos conocidos de este pueblo de los Midlands,larga,208264.0,text2picto,9839:passé 7032:ils 36480:être 8477:les 5508:plus_ 32806:ancien 5563:roi 8456:connaître 7074:de 7095:celui-là 38444:gens 7074:de
+es-0002,propicto,,también es conocido como poeta periodista guionista y compositor,mediana,176918.0,text2picto,6480:il 8456:connaître 12313:comme 6642:poète 8664:journaliste 11399:et 9201:compositeur_
+es-0003,common_voice,wiki.es.txt,Los meses anteriores al festival se realizaron los procesos de selección de participantes.,larga,,,
+es-0004,propicto,,contribuyen a la evaluación socioeconómica de las políticas públicas,mediana,135540.0,text2picto,7030:elles 12248:contribuer 7041:à 8476:le 38462:contrôle 7074:de 11725:politique 24783:audience
+es-0005,common_voice,wiki.es.txt,Varias especies son importantes farmacológicamente.,corta,,,
+es-0006,propicto,,el marqués de germay el oficial superior era el señor,mediana,335778.0,text2picto,9839:passé 8476:le 37779:quelqu'un 7074:de 2704:ville 38233:police 16119:plus_grand 11709:au 36480:être 8476:le 36942:aristocratique
+es-0007,common_voice,wiki.es.txt,"Como ya hemos dicho, la recuperación física de Gage fue completa.",mediana,,,
+es-0008,propicto,,me apunto a sus manos temblorosas en las mías,mediana,472551.0,text2picto,6632:me 32773:saisir 12276:ses 9830:mains 7034:dans 8477:les 12264:mon
+es-0009,common_voice,wiki.es.txt,Este es un proceso difícil de implementar efectivamente.,mediana,,,
+es-0010,common_voice,wiki.es.txt,El padre de María padeció una enfermedad mental hereditaria.,mediana,,,
+es-0011,propicto,,sus cenizas fueron dispersadas en el parque central,mediana,159930.0,text2picto,12276:ses 37838:éruption_volcanique 27070:séparer 7034:dans 2704:ville
+es-0012,common_voice,wiki.es.txt,Se considera uno de los autores más destacados de la literatura centroamericana.,larga,,,
+es-0013,common_voice,wiki.es.txt,Fue enterrado junto a su padre.,corta,,,
+es-0014,common_voice,wiki.es.txt,El jugador va avanzando mientras acaba con sus enemigos hasta terminar el juego.,larga,,,
+es-0015,common_voice,wiki.es.txt,"Hoy en día, la casa se conserva como propiedad privada.",mediana,,,
+es-0016,propicto,,en esta fábula un murciélago pasa la cabeza en la bodega de una beleta,larga,34603.0,text2picto,7034:dans 8476:le 6472:contes 8474:une 2903:chauve-souris 31999:passer 8476:le 2673:tête 7034:dans 8476:le 7149:repaire 7074:de 8474:une 5969:belette
+es-0017,propicto,,¿Qué pictogramas representan esta frase? sus vacaciones de ensueño se vuelven pesadillas,larga,66244.0,text2picto,12278:leurs 32442:vacances 7074:de 38001:rêve 6006:tourner 11709:au 24272:cauchemar
+es-0018,propicto,,el rey no concede gracia,corta,199862.0,text2picto,8476:le 5563:roi 21549:confirmer 5526:non 8476:le
+es-0019,propicto,,en el se obtiene el rango de capitán,mediana,238408.0,text2picto,8476:le 6480:il 24208:attraper 8476:le 23371:succès 7074:de 24937:capitaine
+es-0020,propicto,,la novela está libremente inspirada en su vida pero es más a menudo ficticia,larga,218242.0,text2picto,8476:le 2450:livre 6602:inspirer 7074:de 12272:son 8717:vie 11377:alors_que 36480:être 8476:le 5508:plus_ 37029:souvent
+es-0021,common_voice,wiki.es.txt,Esto da como resultado una proteína truncada.,corta,,,
+es-0022,propicto,,un consejo de desarrollo de treinta miembros asiste a los órganos estatutarios,larga,89926.0,text2picto,2627:un 37708:recommander 7074:de 16629:développement 7074:de 29298:30 29086:extrémités 21385:assister 8477:les 24214:organe
+es-0023,common_voice,wiki.es.txt,Por primera vez en este torneo se jugó con seis equipos.,mediana,,,
+es-0024,propicto,,su unión da nacimiento a la rama el temblor y la niebla,larga,321424.0,text2picto,12274:leur 25696:accord 17040:donner 32168:accoucher 7041:à 8476:le 7224:branche 2704:ville
+es-0025,propicto,,lo sigue cuando regresa al campamento de los bandidos pero es capturado,larga,330967.0,text2picto,9839:passé 6480:il 8476:le 27331:suivre 24053:quand 6480:il 6630:retourner 11709:au 25912:camp 7074:de 4674:voleurs 11377:alors_que 6480:il 8087:arrêter
+es-0026,propicto,,la excavación de su tumba venía de ellos mismos,mediana,462297.0,text2picto,9839:passé 8476:le 7074:de 12274:leur 7821:tombe 32669:venir 7074:de 7032:ils
+es-0027,propicto,,este trozo se descalifica y se deposita,corta,487102.0,text2picto,7095:celui-là 11399:et 32757:mise_en_place
+es-0028,propicto,,se han hecho críticas sobre el carácter siempre vinculante de este techo,larga,451066.0,text2picto,5374:plusieurs 7280:apporter 5451:sur 8476:le 34769:caractère 17322:chaque_fois 7074:de 7095:celui-là 2583:plafond
+es-0029,common_voice,wiki.es.txt,Diferentes interpretaciones de la mecánica cuántica violan diferentes partes del realismo local.,larga,,,
+es-0030,propicto,,La cadena anunció la producción de una película para cerrar la serie,larga,300670.0,text2picto,9839:passé 8476:le 5934:chaîne 9693:dire 8476:le 17032:élaboration 7074:de 2627:un 7194:pour 9041:clôturer 8476:le 29552:algorithme
+es-0031,propicto,,de ahí se transporta el residuo en camiones en vertederos informales,mediana,270288.0,text2picto,7074:de 5375:là 8477:les 26388:déchets 8983:porter 7212:par 2306:camion 7034:dans 5374:plusieurs 15726:décharge
+es-0032,common_voice,wiki.es.txt,Ella utilizó luego esta notoriedad para lanzar su carrera dentro de la pornografía.,larga,,,
+es-0033,common_voice,wiki.es.txt,Fue obispo de Ostia.,corta,,,
+es-0034,common_voice,wiki.es.txt,Lucien Cordier es el único policía de una pequeña ciudad colonial.,mediana,,,
+es-0035,propicto,,generalmente los programas de la cámara digital permiten crear panoramas,mediana,47674.0,text2picto,9839:passé 8477:les 24320:programme 17040:donner 7064:avec 8477:les 24925:appareil_photo 21014:permettre 8476:le 11749:création 7074:de 27889:panorama
+es-0036,propicto,,Ahora llamo en el texto de la comisión los artículos del proyecto de ley,larga,84871.0,text2picto,6632:me 6552:crier 32747:maintenant 7034:dans 8476:le 37340:texte 7074:de 8476:le 7064:avec 16087:emploi 8477:les 7784:article 7074:de 6531:inventer 7074:de 11473:légalement
+es-0037,common_voice,wiki.es.txt,Para la mayoría de usuarios esto es tan imperceptible como irrelevante.,mediana,,,
+es-0038,common_voice,wiki.es.txt,Se encuentra tanto en el interior como en el exterior de las proteínas globulares.,larga,,,
+es-0039,propicto,,el flujo binario es el de la vía incluyendo toda la información auxiliar,larga,292534.0,text2picto,8476:le 36480:être 7095:celui-là 7074:de 8476:le 5946:voie 16659:comprendre 27091:ensemble 8477:les 9899:information 2476:accompagnantes_éducatives_et_sociales
+es-0040,propicto,,senador plain el pobre y que su esclavo,mediana,333646.0,text2picto,8476:le 16843:pauvre 11399:et 11351:que 12281:ton 36935:haut_du_corps
+es-0041,propicto,,El avión equipó cinco escuadrones de la regia marina,mediana,39335.0,text2picto,9839:passé 8476:le 2264:avion 33912:faire_sortir_un_patient 6979:5 7074:de 8476:le 37544:groupe_parlementaire 35453:marina
+es-0042,common_voice,wiki.es.txt,"Actualmente, se reconocen seis subespecies, una ya desaparecida.",mediana,,,
+es-0043,common_voice,wiki.es.txt,La sede de condado es Norwich.,corta,,,
+es-0044,propicto,,¿Qué pictogramas representan esta frase? estas inscripciones permiten financiar el servidor,mediana,210065.0,text2picto,7092:ces 9902:s'enregistrer 21014:permettre 8476:le 21871:financer 7074:de 6072:serveur
+es-0045,common_voice,wiki.es.txt,"Se encuentra en el centro del estado, a orillas del río Misuri.",larga,,,
+es-0046,common_voice,wiki.es.txt,"Muchas personas tuvieron que quedarse afuera, adentro ya no había lugar.",mediana,,,
+es-0047,common_voice,wiki.es.txt,Fue la primera escuela de medicina en el noreste de India.,mediana,,,
+es-0048,common_voice,wiki.es.txt,"A pesar de ello, los procesos nucleares siguen sus propias leyes de conservación.",larga,,,
+es-0049,common_voice,wiki.es.txt,Se trata de un templo de planta de cruz latina.,mediana,,,
+es-0050,common_voice,wiki.es.txt,Recibía en su casa a filósofos griegos y toda clase de literatos.,larga,,,
+es-0051,propicto,,esta indicación dependerá de los valores indicados por otros,mediana,48772.0,text2picto,9829:prochain 9839:passé 8476:le 36964:désignation 11481:dépendre 7074:de 9874:prix 36964:désignation 7212:par 8477:les 17056:autres
+es-0052,common_voice,wiki.es.txt,Pasó varios años en Italia.,corta,,,
+es-0053,propicto,,espira del barón von apetito pensando sólo en comer,mediana,524157.0,text2picto,37779:quelqu'un 7074:de 36935:haut_du_corps 38796:penser 38413:manger
+es-0054,propicto,,¿Qué pictogramas representan esta frase? hay autobuses que permiten llegar allí,mediana,182468.0,text2picto,5374:plusieurs 38090:bus 21014:permettre 7074:de 9026:rendre
+es-0055,common_voice,wiki.es.txt,Es considerada como una de las mejores y más exitosas giras de su carrera.,larga,,,
+es-0056,propicto,,siempre aparecían con cuatro trajes idénticos,corta,128429.0,text2picto,9839:passé 7032:ils 24741:repérer 17322:chaque_fois 11709:au 2630:quatre 5985:déguisement 32392:pareil
+es-0057,propicto,,volveremos hacia arriba y hacia abajo,corta,117195.0,text2picto,37779:quelqu'un 36480:être 7041:à 11709:au 24154:source 11399:et 2704:ville 11709:au
+es-0058,propicto,,su nombre proviene de un antiguo jefe de una aldea turca de la región,larga,31220.0,text2picto,12272:son 38570:nom 32669:venir 7074:de 7095:celui-là 7074:de 2627:un 32806:ancien 22755:chef 7074:de 2627:un 38586:village 29582:turc 7074:de 8476:le 35431:comme
+es-0059,common_voice,wiki.es.txt,Se mantuvo en uso como numeral en la numeración griega.,mediana,,,
+es-0060,common_voice,wiki.es.txt,Se trata de un tema solidario en memoria del abuelo fallecido de Tisdale.,larga,,,
+es-0061,common_voice,wiki.es.txt,Los caminos en el medio se ponen habitualmente con grava fina.,mediana,,,
+es-0062,common_voice,wiki.es.txt,Sobre la cima de esta parte está presente una muy alta cresta ósea.,larga,,,
+es-0063,common_voice,wiki.es.txt,Se simula el sistema social en una de sus representaciones totales.,mediana,,,
+es-0064,common_voice,wiki.es.txt,Constituye la columna anterior del istmo de las fauces.,mediana,,,
+es-0065,propicto,,en su quinto permanece desde hace más de veinte años que coexiste con la naturaleza,larga,460062.0,text2picto,7034:dans 12272:son 2631:cinquième 27206:rester 7077:depuis 5508:plus_ 7074:de 29550:vingt 6903:année 11351:que 7064:avec 8476:le 20389:nature
+es-0066,propicto,,es designada arquitecta-consejera del estado para el departamento de la nievera,larga,408029.0,text2picto,7028:elle 38570:nom 2649:architecte 37708:recommander 7074:de 8476:le 37998:forme 7194:pour 8476:le 2704:ville
+es-0067,common_voice,wiki.es.txt,Su carrera en el fútbol español fue destacada pero no brillante.,mediana,,,
+es-0068,propicto,,lavar y teñir eran abundantes en la orilla de la cerveza,mediana,327116.0,text2picto,9839:passé 15736:blanchisserie 11399:et 11709:au 19526:bord 7074:de 8476:le 2704:ville
+es-0069,common_voice,wiki.es.txt,Hasta ahora solo ha sido visto y publicado en Japón.,mediana,,,
+es-0070,propicto,,romano feillu usó el traje amarillo durante esta competencia,mediana,272531.0,text2picto,9839:passé 36935:haut_du_corps 6553:porter 8476:le 30977:atelier_de_cordonnerie 2648:jaune 24737:durant 8476:le 37313:compétition
+es-0071,common_voice,wiki.es.txt,Casey Harris ha sido ciego desde su nacimiento.,mediana,,,
+es-0072,propicto,,este estilo es muy acelerado atractivo y alegre,mediana,170936.0,text2picto,7095:celui-là 37150:style 36480:être 25708:trop 11399:et 31849:gai
+es-0073,propicto,,quieren que gobierne en el oeste,corta,306710.0,text2picto,7304:vous 5441:vouloir 11351:que 6632:me 7041:à 8476:le 8179:ouest
+es-0074,common_voice,wiki.es.txt,Su hábitat son los bosques primarios y secundarios subtropicales.,mediana,,,
+es-0075,common_voice,wiki.es.txt,"El álbum recibió, en general, críticas positivas.",corta,,,
+es-0076,propicto,,después de la disolución de tremblebee lo se dedica a la música pop,larga,168020.0,text2picto,32749:après 8476:le 27393:arrêter 7074:de 12333:association_à_but_non_lucratif 7041:à 8476:le 24791:musique
+es-0077,propicto,,"tiene el título de subrecargo es decir, responsable de la carga",mediana,269997.0,text2picto,6480:il 32761:avoir 8476:le 37406:titre 7074:de 36935:haut_du_corps 16705:expliquer 22755:chef 7074:de 8476:le
+es-0078,common_voice,wiki.es.txt,Junto a ella estaba un apartadero que llevó a un corral de ganado.,larga,,,
+es-0079,common_voice,wiki.es.txt,La fábrica produce una amplia gama de cervezas.,mediana,,,
+es-0080,propicto,,durante este tiempo vileneuve también intenta establecer contacto,mediana,418272.0,text2picto,7081:pendant 7095:celui-là 22631:époque 36935:haut_du_corps 26144:essayer 7074:de 8476:le 34098:contact
+es-0081,propicto,,frutas con corteza corteza lisa disco leñoso hacia la colmena,mediana,436212.0,text2picto,4653:fruits 7041:à 3070:cactus 25195:lisse 2322:cd 7125:vers 8476:le
+es-0082,propicto,,en ellas forman principalmente pilotos de observación de observadores y fotógrafos,mediana,452597.0,text2picto,7032:ils 32618:façonner 5374:plusieurs 3370:pilote_de_ligne 7074:de 9693:dire 7074:de 11399:et 7074:de 3197:photographe
+es-0083,common_voice,wiki.es.txt,Sus especies se distribuyen por el sur de África.,mediana,,,
+es-0084,propicto,,esta especie es poligama el macho vive con varias hembras,mediana,429319.0,text2picto,8476:le 36480:être 8476:le 38895:mâle 6564:voir 7064:avec 5374:plusieurs 38896:femelle
+es-0085,propicto,,esta especie se encuentra en australia en Nueva guinea y en samoa,larga,35584.0,text2picto,8476:le 8207:rencontre 11709:au 21393:australie 11709:au 26876:guinée 11399:et 7041:à 2704:ville
+es-0086,common_voice,wiki.es.txt,Por lo que el valor de los datos personales es un hecho absolutamente innegable.,larga,,,
+es-0087,propicto,,su sede es Salyersville,corta,62652.0,text2picto,12272:son 36505:siège 36480:être 2704:ville
+es-0088,propicto,,de ellos hay un novicio,corta,113085.0,text2picto,11709:au 2627:un
+es-0089,common_voice,wiki.es.txt,Las hojas son caducas.,corta,,,
+es-0090,common_voice,wiki.es.txt,Se trató del primer álbum del grupo en ser editado por una compañía multinacional.,larga,,,
+es-0091,common_voice,wiki.es.txt,"Para ello, trataron de rodearse de los más prestigiosos poetas, científicos y artistas.",larga,,,
+es-0092,propicto,,su cuerpo descansa en una cueva,corta,455970.0,text2picto,12272:son 17022:corps 16643:se_reposer 7034:dans 8474:une 2729:antre
+es-0093,common_voice,wiki.es.txt,El concierto fue grabado por muchos fans.,corta,,,
+es-0094,propicto,,estas líneas sólo circulan durante los meses de julio y agosto,mediana,194780.0,text2picto,7092:ces 4684:ligne_droite 23929:circuler 11351:que 24737:durant 8477:les 37724:mois 7074:de 35931:juillet 11399:et 35941:août
+es-0095,propicto,,cinco meses más tarde sas gana un puesto de consejero regional en bratislava,larga,33925.0,text2picto,6979:5 37724:mois 13080:suite_ 37779:quelqu'un 38986:remporter 2627:un 36505:siège 7074:de 22753:conseiller_municipal 7041:à 2704:ville
+es-0096,common_voice,wiki.es.txt,Es de ideología independentista y de izquierdas.,corta,,,
+es-0097,common_voice,wiki.es.txt,Actualmente es senador por designación autonómica.,corta,,,
+es-0098,propicto,,¿qué queda en nuestros ojos?,corta,206473.0,text2picto,11351:que 27206:rester 3042:t 6480:il 7034:dans 12268:notre 2876:yeux
+es-0099,common_voice,wiki.es.txt,Es co-patrona de la ciudad de Nápoles.,mediana,,,
+es-0100,propicto,,sus programas de radio y televisión,corta,416525.0,text2picto,12276:ses 24320:programme 31199:radio 11399:et 25498:télévision
+es-0101,common_voice,wiki.es.txt,Todo esto le convierte en una de las armas más letales del arsenal Imperial.,larga,,,
+es-0102,propicto,,envió a hombres para que alimentaran el envío con agua y nueces de coco,larga,284682.0,text2picto,6480:il 21828:envoyer 5374:plusieurs 4665:homme 7194:pour 8476:le 11709:au 6889:eau 11399:et 10224:noix_de_coco
+es-0103,common_voice,wiki.es.txt,Existen lagunas producto de antiguos cauces del río Bermejo.,mediana,,,
+es-0104,propicto,,Sara registró los libros durante varios días,corta,280621.0,text2picto,9839:passé 37779:quelqu'un 8477:les 28893:enregistrer 5374:plusieurs 7022:journée 24737:durant
+es-0105,common_voice,wiki.es.txt,Grabó su primer disco con siete años.,corta,,,
+es-0106,common_voice,wiki.es.txt,Esta figura decora una de las esquinas del edificio.,mediana,,,
+es-0107,common_voice,wiki.es.txt,Uday abrió cuentas con Yahoo!,corta,,,
+es-0108,common_voice,wiki.es.txt,Además fue la persona más longeva que había vivido en tres siglos diferentes.,larga,,,
+es-0109,common_voice,wiki.es.txt,Realizó sus estudios primarios en su pueblo natal.,mediana,,,
+es-0110,propicto,,respondió nab haciendo un gran sonido de risa,mediana,194317.0,text2picto,9031:répondre_à_l’oral 36935:haut_du_corps 11709:au 6485:pousser 2627:un 3369:éclat 7074:de 13354:rire 3417:!
+es-0111,common_voice,wiki.es.txt,Fue sede de un obispado.,corta,,,
+es-0112,common_voice,wiki.es.txt,Ante tal situación Bermúdez y sus partidarios se retiraron a la sierra.,larga,,,
+es-0113,propicto,,le interesa pintar el deporte,corta,349792.0,text2picto,6480:il 37709:intéresser 7041:à 6595:peindre 8476:le 7010:sport
+es-0114,common_voice,wiki.es.txt,Terminó la escuela secundaria en Hamilton.,corta,,,
+es-0115,common_voice,wiki.es.txt,"Tras no ser admitido, acabó como estudiante asistente.",mediana,,,
+es-0116,common_voice,wiki.es.txt,James comienza fuera de la fábrica de juguetes de Santa.,mediana,,,
+es-0117,propicto,,creamos una película en la que se añadió la banda sonora óptica,larga,466921.0,text2picto,9839:passé 31672:nous 11698:produire 14670:choix 2627:un 24797:film 5451:sur 8476:le 23811:bande 12272:son 32769:ajouter
+es-0118,common_voice,wiki.es.txt,Las segundas vestimentas usan como color predominante el azul marino.,mediana,,,
+es-0119,propicto,,desde que martin gray se casó dos veces es padre de cinco hijos,larga,343428.0,text2picto,7077:depuis 36935:haut_du_corps 37163:une_autre_fois 6965:marier 27387:régulier 36480:être 2497:père 7074:de 6979:5 6975:enfants
+es-0120,common_voice,wiki.es.txt,Fuerzas de paz de los ingresos representa una fuente importante de ingresos para Fiyi.,larga,,,
+es-0121,common_voice,wiki.es.txt,En los primeros años de la postguerra el club atravesó muchas dificultades económicas.,larga,,,
+es-0122,common_voice,wiki.es.txt,Ambos eran ex-alumnos de la escuela.,corta,,,
+es-0123,propicto,,es parte del grupo culto blue öyster,corta,145476.0,text2picto,6480:il 6190:faire 27093:pièce 7074:de 7116:groupe 12333:association_à_but_non_lucratif
+es-0124,common_voice,wiki.es.txt,La crónica taurina ha evolucionado a lo largo del tiempo.,mediana,,,
+es-0125,common_voice,wiki.es.txt,Este cuadro refleja los pilotos titulares.,corta,,,
+es-0126,propicto,,el alcalde se niega y moviliza a la guardia nacional,mediana,464551.0,text2picto,8476:le 3170:maire 26368:refuser 11399:et 34292:mobiliser 8476:le 12333:association_à_but_non_lucratif
+es-0127,propicto,,el resto del recorrido está bajando,corta,451121.0,text2picto,8476:le 7074:de 11393:itinéraire 36480:être 11709:au 24723:descente
+es-0128,propicto,,el recinto exterior tiene cinco torres redondas,corta,444945.0,text2picto,8476:le 6484:enceinte 5475:dehors 7064:avec 3244:porte 6979:5 6232:tours 9125:ronde
+es-0129,propicto,,¿Qué pictogramas representan esta frase? Dependiendo de su tamaño pueden llevar hasta veinte personas,larga,388643.0,text2picto,7810:selon 12274:leur 8704:quelle_taille 7032:ils 35949:pouvoir 6139:emporter 7771:jusqu’à 29550:vingt 34560:personne
+es-0130,common_voice,wiki.es.txt,Sus restos fueron cremados como lo así lo dispuso el escritor en vida.,larga,,,
+es-0131,propicto,,luego se dirigen a diego-suarez en madagascar,mediana,200597.0,text2picto,7032:ils 9026:rendre 32749:après 7041:à 2704:ville 7041:à 30204:madagascar
+es-0132,propicto,,La capital de la provincia es Pistoia,corta,367199.0,text2picto,8476:le 22755:chef 9819:place 7074:de 8476:le 14755:la_corogne 36480:être 2704:ville
+es-0133,propicto,,la comuna de choisy no tiene ningún cine,mediana,119256.0,text2picto,8476:le 38586:village 7074:de 32761:avoir 7074:de 5800:aucun 30387:cinéma
+es-0134,common_voice,wiki.es.txt,"Si alguna de las dos columnas centrales se te llena, pierdes la partida.",larga,,,
+es-0135,propicto,,Las orejas suelen ser de un color diferente al del cabello,mediana,66340.0,text2picto,8477:les 2871:oreille 36480:être 7074:de 8474:une 5968:couleur 32394:différent 7074:de 6906:celle-là 7074:de 2851:cheveu
+es-0136,common_voice,wiki.es.txt,"Para las plataformas de transacciones, tanto los productores como los consumidores, deben estar presentes.",larga,,,
+es-0137,common_voice,wiki.es.txt,Cuando un grupo de feligreses formaron una comisión encargada de realizar dicho templo.,larga,,,
+es-0138,propicto,,chateaubriand está en saint-malo para decidir lo que será su futuro entierro,larga,310479.0,text2picto,9829:prochain 36935:haut_du_corps 36480:être 7041:à 2704:ville 7194:pour 37861:décider 7074:de 7095:celui-là 11351:que 36480:être 12272:son 9829:prochain 3195:enterrement
+es-0139,common_voice,wiki.es.txt,"Porfirio Díaz ocupo la gubernatura estatal, asumiendo el cargo por dos años.",larga,,,
+es-0140,common_voice,wiki.es.txt,Estaba destinado a niños de entre cinco y doce años.,mediana,,,
+es-0141,propicto,,¿Qué pictogramas representan esta frase? es presidido por marcelino iglesias,mediana,498247.0,text2picto,6480:il 7212:par 36935:haut_du_corps
+es-0142,common_voice,wiki.es.txt,No todas las especies de caracoles son comestibles.,mediana,,,
+es-0143,common_voice,wiki.es.txt,"En muchos aspectos, el tacto es difícil de investigar.",mediana,,,
+es-0144,common_voice,wiki.es.txt,En una exploración súper severa musicalmente.,corta,,,
+es-0145,propicto,,el fin de semana siguiente se llevan a cabo los campeonatos nacionales,larga,87778.0,text2picto,8476:le 27329:fin_de_semaine 27331:suivre 8477:les 37313:compétition 35431:comme
+es-0146,propicto,,doscientos mil doscientos veintiséis,corta,223567.0,text2picto,4890:2 29256:cent 29258:1000 4890:2 9877:fraction
+es-0147,common_voice,wiki.es.txt,El concepto básico de longitud tiene su origen en la idea de distancia euclidiana.,larga,,,
+es-0148,common_voice,wiki.es.txt,Este Partido nunca tuvo autoridades.,corta,,,
+es-0149,propicto,,Luego comenzó la educación superior para ser maestro,mediana,136857.0,text2picto,9839:passé 6480:il 32749:après 8477:les 36055:études 16119:plus_grand 7194:pour 2457:maître
+es-0150,propicto,,yo he engordado lo que quieres,corta,394964.0,text2picto,6632:me 9839:passé 6632:me 37805:prendre_du_poids 11351:que 5441:vouloir 6625:toi
+es-0151,common_voice,wiki.es.txt,Las obras antiguas se hacían con pinturas al fresco y al temple.,larga,,,
+es-0152,propicto,,varias mujeres acceden al poder bajo el título de candace,mediana,46086.0,text2picto,5374:plusieurs 32364:femmes 6491:entrer 16378:président 5437:en_dessous 8476:le 37406:titre 7074:de 36935:haut_du_corps
+es-0153,common_voice,wiki.es.txt,Dicha decisión fue criticada.,corta,,,
+es-0154,common_voice,wiki.es.txt,Gracias a ella vivo.,corta,,,
+es-0155,propicto,,la campesina regresó después de unos minutos y dijo que puede entrar señor,larga,339453.0,text2picto,9839:passé 8476:le 2982:paysan 6630:retourner 36513:n'importe_qui 37374:minute 11399:et 9693:dire 7304:vous 35949:pouvoir 6491:entrer 4744:monsieur
+es-0156,common_voice,wiki.es.txt,Su breve mandato coincidió con el comienzo de la controversia sobre el jansenismo.,larga,,,
+es-0157,common_voice,wiki.es.txt,De esta forma se tuvo que llegar a la prórroga.,mediana,,,
+es-0158,propicto,,Además había pequeños destacamentos en todo Afganistán,corta,422948.0,text2picto,9839:passé 11709:au 5401:gourde 9001:il_y_a 5374:plusieurs 4571:inférieur 5451:sur 8476:le 27091:ensemble 7074:de 8476:le 24831:afghanistan
+es-0159,propicto,,sólo se permite dibujar,corta,96922.0,text2picto,7253:seul 8476:le 32518:dessin 21010:autoriser
+es-0160,common_voice,wiki.es.txt,La cola es gris con finas barras negras y una banda subterminal ancha.,larga,,,
+es-0161,common_voice,wiki.es.txt,Esta fue la primera grabación desde el espacio de una erupción solar.,larga,,,
+es-0162,common_voice,wiki.es.txt,Una falla es un evento que tiene un significado negativo.,mediana,,,
+es-0163,propicto,,la academia de artes de berlin era entonces una institución reservada a los hombres,larga,223347.0,text2picto,9839:passé 8476:le 12333:association_à_but_non_lucratif 36480:être 11377:alors_que 8474:une 15515:institution 22637:privé 7041:à 4665:homme
+es-0164,propicto,,el juego termina cuando el jugador pierde todos sus puntos de vida,larga,508288.0,text2picto,8476:le 9810:jeu 32814:terminer 24053:quand 8476:le 34449:joueuse_de_waterpolo 24760:perdre 5596:tout 12276:ses 3218:point 7074:de 8717:vie
+es-0165,propicto,,se lanza al vacío,corta,99811.0,text2picto,7028:elle 36673:jeter 7034:dans 8476:le 26527:vide
+es-0166,propicto,,jugó un papel importante en la denuncia del genocidio armenio,mediana,362253.0,text2picto,9839:passé 6480:il 23392:jouer 2627:un 15523:devoir 22627:admirer 7034:dans 8476:le 14006:litige 7074:de 26669:arménien
+es-0167,propicto,,en el interior de la cahute había otras dos inscripciones,mediana,306583.0,text2picto,7034:dans 8476:le 5439:dedans 7074:de 8476:le 2704:ville 9001:il_y_a 2628:deux 17056:autres 9902:s'enregistrer
+es-0168,common_voice,wiki.es.txt,El pino de Coulter a menudo aparece en bosques mixtos.,mediana,,,
+es-0169,propicto,,es enterrado en la necrópolis del muro de Kremlin,mediana,235824.0,text2picto,6480:il 24753:contraire 6602:inspirer 7041:à 8476:le 4591:cimetière 7074:de 2860:mur 2704:ville
+es-0170,common_voice,wiki.es.txt,Cuenta con la participación de varios actores de origen hispano.,mediana,,,
+es-0171,common_voice,sentence-collector.txt,Incluso el silencio es propiedad de alguien,corta,,,
+es-0172,propicto,,¿Qué pictogramas representan esta frase? mucha de su noche se dedica a la oración,larga,36487.0,text2picto,8474:une 34641:exact 27093:pièce 7074:de 12276:ses 26997:nuit 30868:consacrer 7041:à 8476:le 30850:notre_père
+es-0173,common_voice,wiki.es.txt,Así queda demostrado el teorema.,corta,,,
+es-0174,propicto,,se da cuenta de que este mundo es irreal y que es sólo una matriz,larga,335686.0,text2picto,6480:il 36041:apercevoir 11351:que 9839:passé 7095:celui-là 30015:globe 36480:être 11355:bizarre 11399:et 11351:que 6480:il 6190:faire 21381:juste 7074:de 8474:une
+es-0175,common_voice,wiki.es.txt,"Igualmente, su interior puede ser puesto en correspondencia con un disco abierto.",larga,,,
+es-0176,common_voice,wiki.es.txt,Se explota comercialmente ya que su carne es muy apreciada por su calidad gastronómica.,larga,,,
+es-0177,propicto,,sonrientes faciales en cierto modo,corta,509562.0,text2picto,7074:de 2661:moustache 11709:au 5374:plusieurs
+es-0178,propicto,,¿Qué pictogramas representan esta frase? estas actividades y las plantaciones desaparecieron,mediana,413227.0,text2picto,9839:passé 7092:ces 8008:animation 11399:et 8477:les 2828:planter 6493:disparaître
+es-0179,propicto,,este nombre ha dado varios nombres derivados sobre todo de hospitales,mediana,330516.0,text2picto,9839:passé 7095:celui-là 27353:comment_tu_t'appelles_? 17040:donner 5374:plusieurs 38570:nom 7074:de 3116:hospitalier
+es-0180,propicto,,"de hecho, esto permite crear una máscara que se ajuste al rostro del usuario",larga,172521.0,text2picto,11709:au 6906:celle-là 21014:permettre 7074:de 11698:produire 2627:un 5904:masque 5584:oui 11709:au 2684:visage 7074:de 8476:le
+es-0181,common_voice,wiki.es.txt,"En el paisaje hay cascadas, embalses y bosques.",mediana,,,
+es-0182,common_voice,wiki.es.txt,En un templo subterráneo un demonio trae al presente al mismísimo Holtz.,larga,,,
+es-0183,common_voice,wiki.es.txt,Ha recibido diferentes premios de la Iglesia y del gobierno ruso por sus actividades.,larga,,,
+es-0184,propicto,,Katherine Spencer se casó dos veces,corta,9781.0,text2picto,37779:quelqu'un 36935:haut_du_corps 6965:marier 27387:régulier
+es-0185,propicto,,así pierde su personalidad moral,corta,67173.0,text2picto,7028:elle 24760:perdre 12272:son
+es-0186,common_voice,wiki.es.txt,"A donde, ocurren los eventos más importantes del partido.",mediana,,,
+es-0187,common_voice,wiki.es.txt,Afecta principalmente al sistema respiratorio.,corta,,,
+es-0188,common_voice,wiki.es.txt,"Los quince equipos compiten en un grupo único, todos contra todos a visita reciproca.",larga,,,
+es-0189,propicto,,se jubila después de esta triste temporada,corta,272682.0,text2picto,6480:il 16719:retraite 32749:après 8476:le 35545:malheureux 5464:saison
+es-0190,common_voice,wiki.es.txt,Usaron a la proteína verde fluorescente como reportera para su sistema.,mediana,,,
+es-0191,propicto,,Michael's en la asamblea general donde realiza un mandato,mediana,112182.0,text2picto,37779:quelqu'un 3152:s 7041:à 8476:le 36589:conseil_municipal 7764:où 6480:il 6190:faire 2627:un 11580:élections
+es-0192,propicto,,los árboles raíces comparten las desventajas de los tritos,mediana,412232.0,text2picto,8477:les 2256:arbres 36935:haut_du_corps 26377:partager 8477:les 7074:de 31219:tri
+es-0193,common_voice,wiki.es.txt,Se comercializa como pez de acuario.,corta,,,
+es-0194,propicto,,los clubes de diferentes continentes no se reúnen durante este tour,mediana,11258.0,text2picto,8477:les 29919:club_sportif 7074:de 32394:différent 34547:continent 8207:rencontre 5526:non 24737:durant 7095:celui-là 34165:tour
+es-0195,common_voice,wiki.es.txt,Se encuentra sólo en Ecuador.,corta,,,
+es-0196,common_voice,wiki.es.txt,El mod recibió la extensa aclamación de los medios.,mediana,,,
+es-0197,propicto,,se prohibirá la difusión en las ondas de radio,mediana,459998.0,text2picto,7028:elle 9022:interdire 7074:de 36849:diffusion 5451:sur 8477:les 4706:vague
+es-0198,common_voice,wiki.es.txt,La floración se produce a finales de primavera y el verano.,mediana,,,
+es-0199,common_voice,wiki.es.txt,Así sale campeón del apertura.,corta,,,
+es-0200,common_voice,wiki.es.txt,Las hojas están deformadas en la base.,corta,,,
+es-0201,propicto,,henry fonda habla de las ramas de hierba parcialmente en el polo norte,larga,263911.0,text2picto,9839:passé 36935:haut_du_corps 6517:parler 7074:de 7074:de 3113:herbe 11709:au 6187:pôle_nord
+es-0202,common_voice,wiki.es.txt,El origen del gentilicio tiene una leyenda digna de mención.,mediana,,,
+es-0203,propicto,,una calle lleva su nombre en sentido,corta,271327.0,text2picto,8474:une 2299:rue 6553:porter 12272:son 38570:nom 7041:à 30196:sens
+es-0204,common_voice,wiki.es.txt,"Las aguas son tranquilas, de color oscuro.",corta,,,
+es-0205,propicto,,camino de los robles setenta y siete mil seiscientos treinta árboles de la selva,larga,183793.0,text2picto,6955:chemin 2704:ville 29402:77 29258:1000 7241:6 29298:30 2704:ville
+es-0206,common_voice,wiki.es.txt,"Por esta razón, los electrodos son muy importantes para la determinación del resultado experimental.",larga,,,
+es-0207,propicto,,jehin nació en spa,corta,453566.0,text2picto,9839:passé 36935:haut_du_corps 37980:naître 7041:à 15337:eaux_thermales
+es-0208,common_voice,wiki.es.txt,Actualmente Xena no tiene formato destino para la preservación de archivos de vídeo.,larga,,,
+es-0209,common_voice,wiki.es.txt,Los billetes y monedas francesas se distribuyeron en la colonia.,mediana,,,
+es-0210,common_voice,wiki.es.txt,"Finalmente, la idea fue abandonada.",corta,,,
+es-0211,propicto,,¿Qué pictogramas representan esta frase? es doble campeona del mundo de cross country,larga,149893.0,text2picto,7028:elle 36480:être 16345:double 11271:championne 7074:de
+es-0212,propicto,,este muestra en su linto una cruz pintada en mosaico,mediana,400355.0,text2picto,9839:passé 7091:cet 2549:montre 5451:sur 12272:son 8474:une 11709:au 24968:mosaïque
+es-0213,common_voice,wiki.es.txt,Sus acompañantes lograron salir con vida.,corta,,,
+es-0214,propicto,,también habrá otras personas,corta,202595.0,text2picto,9001:il_y_a 7074:de 17056:autres 34560:personne
+es-0215,common_voice,wiki.es.txt,Uno era muy bajito pero les daba ánimos a todos.,mediana,,,
+es-0216,propicto,,estaba cambiando de centro a centro,corta,75277.0,text2picto,9839:passé 6480:il 11705:améliorer 11709:au 7795:métier 7074:de 19570:à_demi_ 9819:place
+es-0217,propicto,,¿Qué pictogramas representan esta frase? se les concedió un territorio de propiedad colectiva,larga,203783.0,text2picto,2627:un 35431:comme 11709:au 32761:avoir 38445:foule 12274:leur 21549:confirmer
+es-0218,propicto,,saber si eso va a decidir buteau,corta,67327.0,text2picto,16885:savoir 28359:si 9829:prochain 37861:décider 36935:haut_du_corps 3417:!
+es-0219,propicto,,Citaré un ejemplo entre muchos otros,corta,214927.0,text2picto,9829:prochain 6632:me 11709:au 2627:un 7253:seul 16705:expliquer 7765:entre 5397:heureusement 7074:de 17056:autres
+es-0220,propicto,,¿Qué pictogramas representan esta frase? también hubo un equipo de mujeres a nivel de departamento,larga,156616.0,text2picto,6480:il 5581:exister 8474:une 26821:équipe 8602:féminin 11709:au 37864:étage
+es-0221,propicto,,la prueba negativa es siempre difícil administrar,corta,28635.0,text2picto,8476:le 26937:négatif 17322:chaque_fois 7041:à
+es-0222,propicto,,no se había oído un solo murmullo salir de sus labios,mediana,17772.0,text2picto,9839:passé 31672:nous 6572:entendre 5526:non 2627:un 7253:seul 27768:formule 38017:s'échapper 7074:de 12278:leurs 2953:lèvres
+es-0223,common_voice,wiki.es.txt,"Son, además, muy sensibles al desprecio.",corta,,,
+es-0224,propicto,,la señorita de bourbon es la hermana del gran condado,mediana,359534.0,text2picto,4745:madame 36935:haut_du_corps 36480:être 8476:le 30824:religieuse 7074:de 4658:grand 7064:avec 36935:haut_du_corps
+es-0225,common_voice,wiki.es.txt,Es conocida por las escenas de incesto de la serie de películas Taboo.,larga,,,
+es-0226,propicto,,las siguientes etapas larvas son apodos y se desarrollan en la semilla,larga,31998.0,text2picto,8477:les 5993:stade 20397:maturité 27331:suivre 36480:être 11399:et 11683:se_développer 7034:dans 8476:le 8689:graine
+es-0227,common_voice,wiki.es.txt,"Tras llegar a una cancha de baloncesto, empieza a bailar con otros dos chicos.",larga,,,
+es-0228,propicto,,el cantón comparte su nombre con el río Patapedia,mediana,261261.0,text2picto,8476:le 26377:partager 12272:son 7064:avec 8476:le 2811:rivière 2704:ville
+es-0229,common_voice,wiki.es.txt,La obra será lanzada dependiendo de la satisfacción de Residente con esta.,larga,,,
+es-0230,propicto,,¿Qué pictogramas representan esta frase? en los últimos cincuenta años surgieron nuevos edificios administrativos,larga,14033.0,text2picto,7081:pendant 7074:de 6903:année 29342:50 37163:une_autre_fois 9839:passé 35859:bâtiments 21802:document 6564:voir 8476:le 37371:jour
+es-0231,common_voice,wiki.es.txt,El dorso es de color marrón chocolate presentando normalmente rayas anaranjadas en los costados.,larga,,,
+es-0232,common_voice,wiki.es.txt,Los soldados mueren dos días más tarde.,corta,,,
+es-0233,propicto,,las herramientas disponibles son una vía complementaria de rehabilitación ortográfica,mediana,493986.0,text2picto,8477:les 7127:outils 37784:volonté 36480:être 8474:une 5946:voie 7074:de 7074:de 14672:rééducation 11239:régime
+es-0234,propicto,,muere en la cámara,corta,526866.0,text2picto,6480:il 32250:décéder 8476:le 7041:à 2704:ville
+es-0235,common_voice,sentence-collector.txt,"Mañana más, y mejor",corta,,,
+es-0236,propicto,,victor salía de un club nocturno que le pertenecía con una sonrisa en los labios,larga,241888.0,text2picto,9839:passé 37779:quelqu'un 5568:sortir 7074:de 37544:groupe_parlementaire 29919:club_sportif 11351:que 6481:lui 6610:saluer 2627:un 4706:vague 13354:rire 7041:à 2953:lèvres
+es-0237,propicto,,¿Qué pictogramas representan esta frase? es acusada de extorsión de fondos y complicidad en asesinatos,larga,144236.0,text2picto,7028:elle 30642:gronder 7074:de 7074:de 32818:fond_marin 11399:et 7074:de 7074:de 16361:meurtre
+es-0238,common_voice,wiki.es.txt,Realmente no tienen mucha emoción.,corta,,,
+es-0239,propicto,,su hermano francesc nin i serra fue compositor y violinista,mediana,4487.0,text2picto,9839:passé 12272:son 2423:frère 36935:haut_du_corps 36480:être 9201:compositeur_ 11399:et
+es-0240,propicto,,los franceses tomaron el ascenso sobre los españoles enfrentando una pequeña oposición,larga,269706.0,text2picto,9839:passé 8477:les 36367:français 10148:prendre 8476:le 5451:sur 8477:les 2704:ville 8207:rencontre 8474:une 25044:faible 16009:opposition
+es-0241,propicto,,se considera una de las industrias más importantes de Sfax,mediana,510230.0,text2picto,6480:il 12349:considérer 12313:comme 8476:le 8474:une 7074:de 8581:usine 32806:ancien 8477:les 5508:plus_ 22627:admirer 7074:de 2704:ville
+es-0242,propicto,,la tribu se dirige hacia donde viene la bala cruza un coche,larga,226838.0,text2picto,8476:le 28256:descendre_de_la_chaise_haute 8994:guider 7034:dans 8476:le 16174:engager 7074:de 7764:où 32669:venir 8476:le 3241:balle 8474:une 2339:voiture
+es-0243,propicto,,se atribuye su muerte a un suicidio,corta,440447.0,text2picto,31672:nous 12272:son 8172:mort 7041:à 2627:un 26464:se_suicider
+es-0244,propicto,,la localidad fue fundada por miembros de la iglesia cristiana de los seguidores de Cristo,larga,443411.0,text2picto,8476:le 7212:par 5374:plusieurs 29086:extrémités 7074:de 8476:le 3118:église 25033:chrétien 7074:de 7177:jésus 7074:de 24135:christ
+es-0245,common_voice,wiki.es.txt,Pasó varios años en la India.,corta,,,
+es-0246,propicto,,en los últimos años las cosas se han ido poniendo mal,mediana,1023.0,text2picto,7077:depuis 36513:n'importe_qui 6903:année 9839:passé 8477:les 11318:truc 37163:une_autre_fois
+es-0247,propicto,,Actualmente la dirección de la publicación es sara cullinan,mediana,461796.0,text2picto,9848:courant 8476:le 16174:engager 7074:de 37860:assurer 7212:par 36935:haut_du_corps
+es-0248,common_voice,wiki.es.txt,"Esto garantizaba una alta producción de contenidos locales, regionales y nacionales.",mediana,,,
+es-0249,common_voice,wiki.es.txt,Dosis mayores generan temblores musculares y una mayor comprensión de los problemas psicológicos.,larga,,,
+es-0250,propicto,,es característico de la arquitectura barroca,corta,489867.0,text2picto,7028:elle 36480:être 32584:caractéristique 7074:de 8476:le 26881:architecture
+es-0251,propicto,,el clima es de tipo continental mediterráneo,corta,311425.0,text2picto,8476:le 24721:temps_météorologique 36480:être 7074:de 4744:monsieur 7223:quel_temps_fait-il_?
+es-0252,propicto,,mataré entonces se vuelve al arte sagrado,corta,512502.0,text2picto,37779:quelqu'un 6006:tourner 7125:vers 8476:le 11245:enseignement_artistique
+es-0253,common_voice,wiki.es.txt,Tenía por cabecera a la ciudad de Bogotá.,mediana,,,
+es-0254,propicto,,se encuentra en el departamento de general roca,mediana,222457.0,text2picto,7028:elle 8207:rencontre 7034:dans 8476:le 16129:département 7074:de 2704:ville
+es-0255,propicto,,hace una década que trabaja en la dimensión política de la globalización,larga,92302.0,text2picto,7077:depuis 8474:une 29254:10 7074:de 6903:année 6480:il 6624:travailler 5451:sur 8476:le 11725:politique 7074:de 8476:le 36366:cours_de_physique
+es-0256,common_voice,wiki.es.txt,Florece en la primavera.,corta,,,
+es-0257,common_voice,wiki.es.txt,Más que aquello no se ha visto.,corta,,,
+es-0258,common_voice,wiki.es.txt,"Sin embargo, dentro de este tipo de galaxias, son más comunes las galaxias enanas.",larga,,,
+es-0259,propicto,,¿Qué pictogramas representan esta frase? después de retirarse del escenario sus apariciones públicas son raras,larga,525547.0,text2picto,32749:après 12272:son 7074:de 8476:le 8106:scène 12276:ses 5990:apparaitre 24783:audience 11355:bizarre
+es-0260,common_voice,wiki.es.txt,Comen principalmente insectos y ocasionalmente semillas.,corta,,,
+es-0261,propicto,,en ciclismo en carretera Alemania calificó a cinco hombres y cuatro mujeres,larga,18614.0,text2picto,11709:au 9698:cyclisme 5451:sur 5946:voie 9839:passé 8476:le 8011:allemagne 16633:soigner 6979:5 4665:homme 11399:et 2630:quatre 32364:femmes
+es-0262,propicto,,es una revista diferente a la que se publica con el mismo nombre,larga,491629.0,text2picto,9839:passé 7095:celui-là 36480:être 2627:un 24364:revue 32394:différent 7074:de 7095:celui-là 5437:en_dessous 8476:le 4667:même 38570:nom
+es-0263,propicto,,el éxito no viene porque siempre permanecerá en la sombra de su esposa,larga,390302.0,text2picto,9829:prochain 8476:le 23371:succès 32669:venir 5526:non 11348:parce_que 6480:il 27206:rester 17322:chaque_fois 7034:dans 8476:le 6649:ombre 7074:de 12272:son 8640:jeune_mariée
+es-0264,propicto,,los interesados en el gobierno se compran entonces algunas telas de gueldry,larga,237050.0,text2picto,37709:intéresser 8477:les 35949:pouvoir 24783:audience 6553:porter 6457:acheter 7074:de 5374:plusieurs 36139:toile 7074:de 36935:haut_du_corps 3417:!
+es-0265,propicto,,los estados miembros son libres de prever exámenes médicos durante la renovación administrativa,larga,309657.0,text2picto,8477:les 24984:phases 11469:états_membres 36480:être 11474:libre 7074:de 32745:avant 6564:voir 5374:plusieurs 33114:examen_médical 7081:pendant 21802:document
+es-0266,propicto,,por eso había comprado un camión pequeño que llevaba un iveco,mediana,197160.0,text2picto,7194:pour 6906:celle-là 9839:passé 6480:il 6457:acheter 2627:un 4716:petit 3232:camion_à_benne 2627:un 12333:association_à_but_non_lucratif
+es-0267,propicto,,lo extraordinario es una oscuridad,corta,401091.0,text2picto,8476:le 38564:super 7095:celui-là 36480:être 8474:une
+es-0268,propicto,,stockwell es el centro de la comunidad portuguesa en londres,mediana,222249.0,text2picto,5581:exister 36480:être 8476:le 5424:centre 7074:de 8476:le 7064:avec 2704:ville 7041:à 21445:londres
+es-0269,propicto,,sería noble y generoso,corta,220141.0,text2picto,7095:celui-là 36480:être 11399:et
+es-0270,propicto,,Está compuesta por un o de un tréma suscrito y un acento grave,larga,422915.0,text2picto,7028:elle 9201:compositeur_ 7074:de 2627:un 3136:o 7074:de 2627:un 11399:et 7074:de 2627:un 9693:dire 36449:grave
+es-0271,propicto,,la curo por artritis seca es una mujer encantadora,mediana,296447.0,text2picto,6632:me 8476:le 16633:soigner 7194:pour 7074:de 8476:le 37779:quelqu'un 7095:celui-là 36480:être 8474:une 24621:femme 8484:charmant
+es-0272,propicto,,el buen sabor de la láminas en el látex de su guapiera,larga,397208.0,text2picto,8476:le 34641:exact 32440:sucré 7074:de 8476:le 3325:faire_frire 5451:sur 8476:le 7074:de 12272:son
+es-0273,propicto,,en la creación de los departamentos la municipalidad se asoció con la ardèche,larga,119643.0,text2picto,7041:à 8476:le 11749:création 7074:de 16129:département 8476:le 38586:village 7041:à 8476:le 2704:ville
+es-0274,propicto,,se dio cuenta de una complicación terrible que no podía caer más,larga,245221.0,text2picto,9839:passé 6480:il 12351:réaliser 7074:de 8474:une 6480:il 35949:pouvoir 5508:plus_ 2675:tomber
+es-0275,common_voice,wiki.es.txt,"Son hierbas, anuales, escasamente a densamente pilosas, al menos, por debajo.",mediana,,,
+es-0276,propicto,,su actuación le valió muchas nominaciones y premios,mediana,116071.0,text2picto,12272:son 36075:performance 6481:lui 9874:prix 7074:de 7168:nombreux 11399:et 26845:récompense
+es-0277,common_voice,wiki.es.txt,Taiwán ha recibido el tifón más húmedo registrado para el Pacifico noroccidental.,larga,,,
+es-0278,common_voice,wiki.es.txt,La mayoría de los corregimientos están a lo largo de los afluentes.,larga,,,
+es-0279,common_voice,wiki.es.txt,Se refiere a un instrumento desconocido de nueve cuerdas con sus intervalos musicales.,larga,,,
+es-0280,common_voice,wiki.es.txt,"Debido a su incapacidad, su esposa Federica actuaba de regente.",mediana,,,
+es-0281,common_voice,wiki.es.txt,Se puede decir que su sabor es más suave que la salsa agridulce.,larga,,,
+es-0282,common_voice,wiki.es.txt,La cinta no funcionó como se esperaba en taquilla.,mediana,,,
+es-0283,common_voice,wiki.es.txt,Son significativas sus pinturas románicas.,corta,,,
+es-0284,propicto,,¿Qué pictogramas representan esta frase? no se produjo una producción en serie,larga,228521.0,text2picto,9839:passé 6480:il 32658:déboucher 5526:non 5451:sur 8474:une 17032:élaboration 11709:au 29552:algorithme
+es-0285,common_voice,wiki.es.txt,"En ese momento, Yulia se ganaba la vida como cajera en un supermercado.",larga,,,
+es-0286,common_voice,wiki.es.txt,La vegetación predominante es la encina.,corta,,,
+es-0287,propicto,,allí estableció el orfanato de betesda que todavía existe hoy,mediana,680.0,text2picto,6480:il 8476:le 37544:groupe_parlementaire 36935:haut_du_corps 11351:que 5581:exister 37163:une_autre_fois 25736:immédiatement
+es-0288,common_voice,wiki.es.txt,El trabajo misional no estuvo exento de dificultades.,mediana,,,
+es-0289,common_voice,wiki.es.txt,Adoptan cualquier comportamiento ofrece el mayor beneficio personal.,mediana,,,
+es-0290,common_voice,wiki.es.txt,Se cree que la causa del accidente fue un error del piloto.,larga,,,
+es-0291,common_voice,wiki.es.txt,Alejandro se formó con su padre.,corta,,,
+es-0292,propicto,,El enigma está en el hecho de que fue luego demolido y reconstruido por Bernard,larga,130758.0,text2picto,9839:passé 8476:le 24829:devinette 11605:vivre 7034:dans 8476:le 11351:que 6480:il 32749:après 11230:démolissant 11399:et 37163:une_autre_fois 2713:construire 7212:par 36935:haut_du_corps
+es-0293,propicto,,la lluvia cae sobre todo durante los meses de verano pero sin una estación definida,larga,171566.0,text2picto,9839:passé 8477:les 3123:pluie 2675:tomber 24737:durant 8477:les 37724:mois 7074:de 5604:été 11377:alors_que 7813:sans 5464:saison
+es-0294,common_voice,wiki.es.txt,Y su obra se ha traducido a varios idiomas.,mediana,,,
+es-0295,propicto,,regresé con pensamientos muy malos casi paralizado,corta,167227.0,text2picto,9839:passé 6632:me 29714:rentrer_à_la_maison 7064:avec 5374:plusieurs 26310:pensée 25708:trop 5504:pas_d'accord
+es-0296,propicto,,es un simple convenio de nombre para sus usuarios,mediana,143047.0,text2picto,7095:celui-là 36480:être 8474:une 32434:facile 11689:convention 7074:de 7194:pour 12276:ses
+es-0297,propicto,,gana el campeonato búlgaro de ajedrez femenino y varias veces el campeonato suizo de ajedrez,larga,21399.0,text2picto,7028:elle 7218:gagner 8476:le 37313:compétition 37544:groupe_parlementaire 7074:de 22031:échec 8602:féminin 11399:et 5374:plusieurs 27385:fois 37313:compétition 7074:de 28978:suisse 7074:de 22031:échec
+es-0298,propicto,,era la ligadura de la arteria que se desprende,mediana,313499.0,text2picto,9839:passé 7095:celui-là 36480:être 8476:le 30144:pansement_compressif 7074:de 8476:le 10269:artère 11351:que
+es-0299,common_voice,wiki.es.txt,"Unos días más tarde, exploró la pieza.",corta,,,
+es-0300,propicto,,pero haz todo lo posible para que tu red sea beneficiosa,mediana,152660.0,text2picto,11377:alors_que 11351:que 12285:votre 2548:filet 36480:être
+es-0301,common_voice,wiki.es.txt,Fue Madara quien se conectó a la estatua para mantenerse con vida.,larga,,,
+es-0302,propicto,,pero necesita tener su pie protegido por el frío,mediana,448269.0,text2picto,37779:quelqu'un 9839:passé 6480:il 37160:besoin 11377:alors_que 7074:de 32761:avoir 12272:son 25327:pied 6599:protéger 7212:par 4658:grand 35589:froid
+es-0303,common_voice,wiki.es.txt,Juega como marcador central y su primer equipo fue Alianza.,mediana,,,
+es-0304,common_voice,wiki.es.txt,Es un plato muy preparado para las fiestas de fin de año.,larga,,,
+es-0305,propicto,,la fatal jubilación llegó finalmente,corta,94776.0,text2picto,8476:le 37779:quelqu'un 9839:passé 16719:retraite 32669:venir
+es-0306,common_voice,wiki.es.txt,Pero tiene las características de un tributo.,corta,,,
+es-0307,common_voice,wiki.es.txt,"A partir de ese momento, pasó a colaborar abiertamente con ellos.",mediana,,,
+es-0308,common_voice,wiki.es.txt,Sus trabajos producidos en su taller de Roma con diseños clásicos son numerosos.,larga,,,
+es-0309,common_voice,wiki.es.txt,La sede de condado es Pocahontas.,corta,,,
+es-0310,propicto,,si se entrega a sí mismo se desviará hacia un punto estable,larga,46957.0,text2picto,6480:il 17040:donner 7041:à 6481:lui 9829:prochain 6480:il 7125:vers 2627:un 3218:point
+es-0311,propicto,,su buen humor lo hace saltar sobre sus amigos o en el bosque,larga,365910.0,text2picto,12272:son 34641:exact 12359:avoir_l'air 8476:le 6485:pousser 7041:à 6607:sauter 5451:sur 12276:ses 25792:relation 11317:ou 7034:dans 8476:le 2666:forêt
+es-0312,common_voice,wiki.es.txt,Era continuamente leído por los gramáticos,corta,,,
+es-0313,propicto,,es la primera edición de este campeonato,corta,519636.0,text2picto,7095:celui-là 36480:être 8476:le 10210:première 7074:de 7095:celui-là 37313:compétition
+es-0314,common_voice,wiki.es.txt,Sabe como la trucha marrón cruzada con un salmón atlántico.,mediana,,,
+es-0315,common_voice,wiki.es.txt,"Se trata de un refugio natural con una gran biodiversidad, en flora y fauna.",larga,,,
+es-0316,common_voice,wiki.es.txt,Se produjo un enorme crecimiento en la cantidad y tamaño de las redes.,larga,,,
+es-0317,common_voice,wiki.es.txt,Predomina la influencia sienesa.,corta,,,
+es-0318,propicto,,El número de instrucciones necesarias para realizar una operación varía para cada una de ellas.,larga,198608.0,text2picto,8476:le 24731:combien 7074:de 7194:pour 6190:faire 8474:une 27925:opération_chirurgicale 7194:pour 7074:de 7765:entre 7030:elles
+es-0319,propicto,,toda la gira se jugó en tiendas cerradas,mediana,127091.0,text2picto,8476:le 32438:totalité 7074:de 8476:le 23392:jouer 7041:à 24793:guichets 4596:clos
+es-0320,common_voice,wiki.es.txt,Los accidentes ferroviarios han aumentado desde la privatización de la red.,mediana,,,
+es-0321,common_voice,wiki.es.txt,Está abierto todos los días del año y se paga una tarifa de entrada.,larga,,,
+es-0322,common_voice,wiki.es.txt,En los años setenta se retiró del futbol.,mediana,,,
+es-0323,propicto,,no podemos ignorar esta pregunta,corta,206406.0,text2picto,31672:nous 5526:non 24719:ignorer 8476:le 7217:question
+es-0324,propicto,,su largo redingot negro estaba tocado hasta la corbata,mediana,385462.0,text2picto,12272:son 26162:long 3296:veste 2886:noir 5357:attacher 7771:jusqu’à 8476:le 4614:cravate
+es-0325,common_voice,wiki.es.txt,Debió irse del país.,corta,,,
+es-0326,common_voice,wiki.es.txt,Los industriales se enfrentaron a un problema de escasez de materia prima.,larga,,,
+es-0327,propicto,,otra es la prima de san Marcos,corta,333629.0,text2picto,8474:une 17054:autre 36480:être 8476:le 12333:association_à_but_non_lucratif
+es-0328,propicto,,piensan que son más normales y típicos de lo que otros lo consideran,larga,254328.0,text2picto,7032:ils 38796:penser 11351:que 7030:elles 36480:être 5508:plus_ 11355:bizarre 11399:et 11351:que 7074:de 17056:autres 8476:le 12349:considérer
+es-0329,common_voice,wiki.es.txt,Y ambas películas recibieron numerosos premios y nominaciones en festivales de cine.,larga,,,
+es-0330,propicto,,jimmy se siente atraído por el niño que nada,mediana,110898.0,text2picto,37779:quelqu'un 23771:aimanter 7212:par 8476:le 7176:garçon 11351:que 6568:nager
+es-0331,propicto,,su hijo también es guionista y director,corta,333706.0,text2picto,12272:son 9887:fils 36480:être 3423:égal 11399:et
+es-0332,propicto,,¿Qué pictogramas representan esta frase? las visitas de sus familiares también se han reducido,larga,37611.0,text2picto,8477:les 11396:visite_scolaire 7074:de 12276:ses 25792:relation
+es-0333,common_voice,wiki.es.txt,"Así pueden transmitir amor, luto o, incluso, mensajes educativos.",mediana,,,
+es-0334,common_voice,wiki.es.txt,Se ha especializado en la difusión de la literatura en entornos digitales.,larga,,,
+es-0335,propicto,,pasa dos temporadas en ligas menores en la organización de los tigres,larga,131249.0,text2picto,6480:il 11705:améliorer 2628:deux 5464:saison 11709:au 31843:mineur 7034:dans 8476:le 35653:organiser 7074:de 12333:association_à_but_non_lucratif
+es-0336,propicto,,en esta ocasión registra su primer objetivo en selección,mediana,93398.0,text2picto,7041:à 8476:le 27564:épisodiquement 6480:il 9901:enregistrement 12272:son 4726:premier 6007:but_inscrit 11709:au 14670:choix
+es-0337,propicto,,son tóxicos y generalmente cancerígenos,corta,89648.0,text2picto,7032:ils 36480:être 7200:toxique 11399:et
+es-0338,common_voice,wiki.es.txt,Se trata de una de las caras que dan al norte.,mediana,,,
+es-0339,propicto,,fue introducido en Canadá,corta,296939.0,text2picto,6480:il 11709:au 8057:canada
+es-0340,propicto,,practicar este instrumento le hace sentir pasión por la música,mediana,212477.0,text2picto,8476:le 7297:contexte 7074:de 7091:cet 38091:instrument 6190:faire 37980:naître 6481:lui 8476:le 36711:intérêts_restreints 7074:de 8476:le 24791:musique
+es-0341,propicto,,estudia en su ciudad natal y luego en Viena,mediana,290130.0,text2picto,6480:il 37810:étudier 7034:dans 12272:son 2704:ville 7041:à 2704:ville
+es-0342,propicto,,otras miniaturas son cartas históricas que abren los capítulos de los libros bíblicos,larga,75214.0,text2picto,8477:les 17056:autres 9839:passé 36480:être 5374:plusieurs 2688:lettre 2637:ouvrir 8477:les 7074:de 6641:livres 26539:biblique
+es-0343,propicto,,representa el conjunto de puntos al infinito,corta,429706.0,text2picto,7028:elle 33992:porte-parole 8476:le 27091:ensemble 7074:de 3218:point 17322:chaque_fois
+es-0344,common_voice,wiki.es.txt,"En un comienzo, el periódico contaba con una edición matutina y otra vespertina.",larga,,,
+es-0345,common_voice,wiki.es.txt,Procede probablemente del sur de China.,corta,,,
+es-0346,propicto,,capturado por ellos logra ser consejero diplomático,corta,179005.0,text2picto,8087:arrêter 7212:par 7033:eux 6480:il 7041:à 12274:leur 4708:conseiller 3417:!
+es-0347,propicto,,viene a buscarla para llevarla a Viena,corta,451551.0,text2picto,6480:il 32669:venir 8476:le 6947:chercher 7194:pour 8476:le 37485:emmener 7041:à 2704:ville
+es-0348,common_voice,wiki.es.txt,No había nada mejor en la tauromaquia.,corta,,,
+es-0349,propicto,,suele tocar principalmente la guitarra y el sintetizador,mediana,183909.0,text2picto,6480:il 23392:jouer 7074:de 8476:le 2417:guitare 11399:et 7074:de
+es-0350,propicto,,¿Qué pictogramas representan esta frase? sus fuerzas son de dos brigadas,mediana,187932.0,text2picto,12278:leurs 25638:forces 36480:être 7074:de 2628:deux 11246:armée
+es-0351,propicto,,el single extraído de este live es owls,mediana,504465.0,text2picto,9839:passé 8476:le 25089:extraire 7074:de 7095:celui-là 36480:être 37779:quelqu'un
+es-0352,common_voice,wiki.es.txt,El diario citaba alt.music.pink-floyd.,corta,,,
+es-0353,propicto,,El lugar cerrado no se puede acceder pero se puede ver desde la carretera,larga,320521.0,text2picto,9839:passé 8476:le 11696:doute 9041:clôturer 36480:être 5526:non 11478:accessibilité 11377:alors_que 36480:être 7074:de 8476:le 5946:voie
+es-0354,propicto,,especies de este tipo se encuentran en laos en tailandia y china,larga,11550.0,text2picto,8477:les 7074:de 7095:celui-là 10345:genre 8207:rencontre 11709:au 27861:laos 11709:au 25483:thaïlandais 11399:et 11709:au 8074:chine
+es-0355,common_voice,wiki.es.txt,"La publicación, empero, reapareció posteriormente.",corta,,,
+es-0356,common_voice,wiki.es.txt,Durante varios años estuvieron trasladándose de un pueblo a otro.,mediana,,,
+es-0357,propicto,,al año siguiente aumenta aún más su número de puntos y su número de intercepciones,larga,281892.0,text2picto,8476:le 6903:année 27331:suivre 7028:elle 19572:augmenter 37163:une_autre_fois 12272:son 24731:combien 7074:de 3218:point 11399:et 12272:son 24731:combien 7074:de
+es-0358,common_voice,wiki.es.txt,"Se pueden ejecutar programas, transferir archivos y hasta reiniciar o apagar la máquina remota.",larga,,,
+es-0359,propicto,,de nacionalidad estadounidense y francesa habla inglés y francés con fluidez,mediana,347540.0,text2picto,7074:de 12338:nationalité 5377:amérique 11399:et 36367:français 6480:il 6517:parler 37029:souvent 8476:le 32705:anglais 11399:et 8476:le 36367:français
+es-0360,common_voice,wiki.es.txt,Define a la mujer y al hombre en la dimensión más profunda e integral.,larga,,,
+es-0361,propicto,,para algunos no es una teoría pertinente para explicar la conversión,mediana,345252.0,text2picto,7194:pour 5374:plusieurs 7095:celui-là 36480:être 5526:non 8474:une 37711:réponse 7194:pour 16705:expliquer 8476:le 26142:enfer
+es-0362,propicto,,diez caminos del beuregard,corta,193081.0,text2picto,29254:10 6955:chemin 7074:de 2704:ville
+es-0363,common_voice,wiki.es.txt,Es el hombre quien debe buscar a Dios.,mediana,,,
+es-0364,common_voice,wiki.es.txt,Su principal industria es la patata.,corta,,,
+es-0365,propicto,,este concepto también se encuentra en el pantalón de puente,mediana,368358.0,text2picto,7095:celui-là 32862:partager_une_idée 24742:trouver 7034:dans 8476:le 2565:pantalon 7041:à 6194:pont
+es-0366,common_voice,wiki.es.txt,Su territorio es completamente sierra.,corta,,,
+es-0367,common_voice,wiki.es.txt,Los ciudadanos de los países cercanos y los países de Europa visitan el festival.,larga,,,
+es-0368,common_voice,wiki.es.txt,Su siguiente destino fue Escandinavia.,corta,,,
+es-0369,common_voice,wiki.es.txt,"El ritmo es marcado por el tambor, generalmente tocado por el mismo cantante.",larga,,,
+es-0370,common_voice,wiki.es.txt,Tiene un sabor bastante parecido al de la lima.,mediana,,,
+es-0371,propicto,,allí sus amigos habrían muerto en circunstancias terribles,mediana,507577.0,text2picto,5375:là 9839:passé 12276:ses 25792:relation 24742:trouver 8476:le 8172:mort 7034:dans 7074:de
+es-0372,propicto,,las nubes son microscópicas,corta,54772.0,text2picto,8477:les 2704:ville 36480:être 8168:microscope
+es-0373,common_voice,wiki.es.txt,El sistema de competición es de liguilla a doble vuelta.,mediana,,,
+es-0374,propicto,,las tres primeras noticias son de policía y las tres últimas son de tipo fantástico,larga,18762.0,text2picto,8477:les 2629:trois 4726:premier 7784:article 36480:être 11280:agent_de_police_municipale 11399:et 8477:les 2629:trois 4765:dernier 36480:être 7074:de 10345:genre 38564:super
+es-0375,common_voice,wiki.es.txt,Las tres mujeres iban a ser los últimos tres concursantes.,mediana,,,
+es-0376,common_voice,wiki.es.txt,Esta sección conduce a una repetición de la sección del minueto.,mediana,,,
+es-0377,common_voice,wiki.es.txt,Hay muchos ejemplos del uso de esta filosofía.,mediana,,,
+es-0378,propicto,,Esto crea una nueva frontera entre el territorio franco y el avaro,larga,110250.0,text2picto,6906:celle-là 11698:produire 8474:une 11316:nouveau 8483:douane 7765:entre 8476:le 35431:comme 7074:de 37236:vérité 11399:et 7074:de
+es-0379,propicto,,de otra manera están ligados podremos votar uno o el otro,mediana,253082.0,text2picto,7032:ils 32276:ficeler 9829:prochain 31672:nous 35949:pouvoir 6631:voter 8476:le 2627:un 11317:ou 8476:le 17054:autre
+es-0380,propicto,,el club cancela su contrato al final de la temporada,mediana,359908.0,text2picto,8476:le 29919:club_sportif 27393:arrêter 12272:son 25696:accord 7041:à 8476:le 37064:fin 7074:de 8476:le 5464:saison
+es-0381,common_voice,wiki.es.txt,"Una vez allí, empezó a subir videos a YouTube, acumulando millones de visitas.",larga,,,
+es-0382,common_voice,wiki.es.txt,"Durante la dominación española, se destacó por su auge comercial.",mediana,,,
+es-0383,propicto,,¿Qué pictogramas representan esta frase? entonces se creó un reino árabe sirio independiente,larga,17435.0,text2picto,2627:un 6010:arabe 30251:indépendant 11698:produire
+es-0384,propicto,,sigue una formación de estenodactilo,corta,227465.0,text2picto,7028:elle 27331:suivre 8474:une 8098:stage 7074:de
+es-0385,propicto,,estás sufriendo lo siento,corta,212623.0,text2picto,6625:toi 30620:avoir_mal 6632:me 8476:le 25275:sentir
+es-0386,propicto,,en la época gallo romana era probablemente una aldea de cierta importancia,larga,196285.0,text2picto,7041:à 8476:le 22631:époque 32088:romain 7095:celui-là 36480:être 2627:un 7074:de 8474:une 37236:vérité 22627:admirer
+es-0387,common_voice,wiki.es.txt,La familia se basa en la monogamia.,corta,,,
+es-0388,propicto,,desde entonces han tenido aventuras con ellos,corta,292449.0,text2picto,7077:depuis 7030:elles 11605:vivre 5374:plusieurs 21401:aventure 31906:quant_à_eux
+es-0389,common_voice,wiki.es.txt,Davies compuso la canción de una sola vez sin una revisión posterior.,larga,,,
+es-0390,propicto,,la estrella nemesis se dirige peligrosamente hacia el sistema solar amenazando con destruir la tierra,larga,357389.0,text2picto,8476:le 2752:étoile 2704:ville 8994:guider 7125:vers 8476:le 37979:système_solaire 37136:menacer 3160:terre 7074:de 26561:destruction
+es-0391,propicto,,el concepto es un éxito inmediato y las copias aparecen al año siguiente,larga,16247.0,text2picto,8476:le 32862:partager_une_idée 2627:un 23371:succès 25736:immédiatement 11399:et 5374:plusieurs 7064:avec 4766:pie 24741:repérer 8476:le 6903:année 27331:suivre
+es-0392,common_voice,wiki.es.txt,Según parece toda la familia tenía talento musical.,mediana,,,
+es-0393,propicto,,entonces subió por primera vez a un escenario,mediana,291587.0,text2picto,6480:il 6190:faire 12272:son 10210:première 5451:sur 8474:une 8106:scène
+es-0394,propicto,,los hablantes también usan el titán,corta,273009.0,text2picto,8477:les 9693:dire 6624:travailler 8476:le 36935:haut_du_corps
+es-0395,common_voice,wiki.es.txt,"En otros casos, la censura se produjo sin el conocimiento de este.",larga,,,
+es-0396,common_voice,wiki.es.txt,"En su adolescencia, Angela tuvo problemas de anorexia.",mediana,,,
+es-0397,propicto,,pero más tarde el escritor acabará tratando a su crítico como un amigo,larga,36621.0,text2picto,11377:alors_que 13080:suite_ 9829:prochain 8476:le 11258:écrivain 28429:finir 7212:par 7113:traiter 12272:son 12313:comme 2627:un 8487:ami
+es-0398,propicto,,ponémonos al tanto del lazo,corta,275593.0,text2picto,6989:mettre 31672:nous 11709:au 7074:de 25506:piège 3417:!
+es-0399,common_voice,wiki.es.txt,Este puede ser simple o completo.,corta,,,
+es-0400,common_voice,wiki.es.txt,Es un municipio sin playas ni puertos.,corta,,,
+es-0401,common_voice,wiki.es.txt,Fue muy amada por su padre.,corta,,,
+es-0402,propicto,,experimentaron instrumentos especiales utilizados para operaciones en esta cirugía especializada,mediana,61504.0,text2picto,9839:passé 7032:ils 8578:expérimenter 5374:plusieurs 38091:instrument 15485:utiliser 7194:pour 8477:les 36562:opérations 7034:dans 8476:le 28019:chirurgie 24709:démarches
+es-0403,propicto,,productos destinados a la relojería y el armamento,mediana,175773.0,text2picto,37856:gratter_une_blessure 7041:à 8476:le 11399:et 8476:le
+es-0404,common_voice,wiki.es.txt,Honorato ha desmentido dichas acusaciones.,corta,,,
+es-0405,propicto,,puede albergar entre cuatrocientos y seiscientos fieles,corta,467621.0,text2picto,7028:elle 35949:pouvoir 27125:visite 7074:de 2630:quatre 7041:à 2632:six 37544:groupe_parlementaire
+es-0406,common_voice,wiki.es.txt,Sin embargo no se llegó a ejecutar.,corta,,,
+es-0407,propicto,,así nació el cuerno de la abundancia,corta,464532.0,text2picto,7095:celui-là 36480:être 12313:comme 37980:naître 8476:le 7064:avec 2704:ville
+es-0408,common_voice,wiki.es.txt,El caramelo se consigue mediante la cocción de azúcares.,mediana,,,
+es-0409,propicto,,por lo tanto participan plenamente en la localización del tesoro,mediana,131406.0,text2picto,7032:ils 11475:prendre_part 7041:à 8476:le 5990:apparaitre 7074:de 6229:trésor
+es-0410,propicto,,ningún hijo nació de esta unión,corta,213474.0,text2picto,9839:passé 5800:aucun 7176:garçon 37980:naître 7074:de 8476:le 25696:accord
+es-0411,propicto,,el vaso es de cristal de roca un cuarzo transparente e incoloro,larga,114153.0,text2picto,8476:le 3271:vase 36480:être 11709:au 9140:verre 7074:de 6594:pierre 2627:un 37335:quartz_hématome 24440:transparent 11399:et
+es-0412,propicto,,ninguno llevaba el casco,corta,293233.0,text2picto,9839:passé 5800:aucun 6553:porter 8476:le 11208:casque_de_musique
+es-0413,propicto,,este es el informe de la reunión que tuvimos con herri la semana pasada,larga,344234.0,text2picto,8476:le 7074:de 8476:le 8207:rencontre 11351:que 9839:passé 31672:nous 32761:avoir 8476:le 37732:semaine 4765:dernier 7064:avec 36935:haut_du_corps 3417:!
+es-0414,common_voice,wiki.es.txt,"Posteriormente, realizó estudios en antropología.",corta,,,
+es-0415,propicto,,acompañó a su compatriota juninho también de la misma escuela,mediana,307065.0,text2picto,6480:il 37485:emmener 12272:son 36935:haut_du_corps 32392:pareil 34161:académie
+es-0416,common_voice,wiki.es.txt,Tiene una voz chillona.,corta,,,
+es-0417,propicto,,estas reglas informales de presentación facilitan la lectura de los miembros del jurado,larga,404521.0,text2picto,7092:ces 8165:menstruations 7074:de 9870:présentation 15467:impulser 8476:le 7141:lire 7074:de 29086:extrémités 7074:de 26885:jury
+es-0418,common_voice,sentence-collector.txt,en el fondo oscuro del Oriente,corta,,,
+es-0419,common_voice,wiki.es.txt,"A partir de entonces, los Cavs entraron en un periodo de decadencia.",larga,,,
+es-0420,propicto,,también tienen acceso a tecnología avanzada,corta,254660.0,text2picto,7032:ils 32761:avoir 3423:égal 31865:accès 7041:à 8474:une 11459:technologie 7074:de 31376:salle_de_technologie
+es-0421,common_voice,wiki.es.txt,Especializado en documentos antiguos.,corta,,,
+es-0422,propicto,,por esta razón la mayoría de las casas de Lismore están en alto,larga,179846.0,text2picto,7095:celui-là 36480:être 7194:pour 8476:le 12295:raison 11351:que 8476:le 7074:de 2317:maison 7074:de 2704:ville 15441:praxie
+es-0423,common_voice,wiki.es.txt,Masferrer es el director y el autor de todos los espectáculos de la compañía.,larga,,,
+es-0424,common_voice,wiki.es.txt,El propósito de la retrospectiva es realizar una mejora continua del proceso.,larga,,,
+es-0425,common_voice,wiki.es.txt,La germinación de la semilla fresca es lenta pero confiable.,mediana,,,
+es-0426,common_voice,wiki.es.txt,Es por ello que numerosos autores extranjeros participaron como colaboradores.,mediana,,,
+es-0427,propicto,,fraser proviene del clan fraser y más precisamente de la rama de inverness,larga,364529.0,text2picto,37779:quelqu'un 36480:être 7074:de 12333:association_à_but_non_lucratif 11399:et 5508:plus_ 7074:de 8476:le 7224:branche 7074:de 2704:ville
+es-0428,propicto,,la colonia griega muy importante desde el punto de vista comercial durará mil años,larga,222362.0,text2picto,9839:passé 8476:le 32416:colonie_de_vacance 36370:grec 25708:trop 22627:admirer 7074:de 27889:panorama 6652:vendre 24998:continuer 7081:pendant 2627:un
+es-0429,propicto,,Así que es el arco de gran círculo que pasa por estos dos puntos,larga,398914.0,text2picto,7095:celui-là 36480:être 8476:le 5386:arc 7074:de 4603:cercle 31999:passer 7212:par 7092:ces 3420::
+es-0430,propicto,,en esa fecha la revista fue dirigida por eric hoesli durante dos años,larga,395744.0,text2picto,7041:à 8476:le 34803:date 8476:le 24364:revue 8994:guider 7081:pendant 2628:deux 6903:année 7212:par 36935:haut_du_corps
+es-0431,propicto,,los alemanes evaculan la base,corta,449008.0,text2picto,8476:le 8477:les 2704:ville 37863:évacuer 8476:le 31334:base
+es-0432,common_voice,wiki.es.txt,Elsa era la pequeña de tres hermanos y desde niña quería ser artista.,larga,,,
+es-0433,propicto,,las huidas eran muy raras,corta,406762.0,text2picto,9839:passé 8477:les 36480:être 25708:trop 11355:bizarre
+es-0434,common_voice,wiki.es.txt,"Se utilizan centros de flores, arcos en bodas, banquetes y otros eventos.",larga,,,
+es-0435,common_voice,wiki.es.txt,Ken Shamrock lo reemplazó.,corta,,,
+es-0436,propicto,,ninguno de los dos confesó nada,corta,47212.0,text2picto,9839:passé 5800:aucun 7074:de 2628:deux 9693:dire 22620:quoi 11351:que 7095:celui-là 36480:être
+es-0437,common_voice,wiki.es.txt,Se distribuye por Eurasia.,corta,,,
+es-0438,propicto,,por lo tanto la rebelión es inevitable,corta,337212.0,text2picto,8476:le 27469:se_plaindre 36480:être
+es-0439,common_voice,wiki.es.txt,Luego de esto se creó una nueva constitución donde se prohibía la reelección presidencial.,larga,,,
+es-0440,propicto,,la gramática se deja a favor de las equivalencias más cercanas,mediana,492604.0,text2picto,8476:le 11709:au 36346:bénéfice 7074:de 37590:comparer 8477:les 5508:plus_ 6879:approcher
+es-0441,propicto,,¿Qué pictogramas representan esta frase? en el grupo nadie hablaba francés,mediana,124836.0,text2picto,7034:dans 8476:le 7116:groupe 9839:passé 34560:personne 6517:parler 8476:le 36367:français
+es-0442,propicto,,apasionado por la mecánica hizo así su primer motor,mediana,405663.0,text2picto,7212:par 8476:le 6480:il 32751:fabriquer 12272:son 4726:premier 10334:moteur 3417:!
+es-0443,common_voice,wiki.es.txt,Esto causa dolor de espalda y curvatura espinal.,mediana,,,
+es-0444,common_voice,wiki.es.txt,Fue considerado uno de los principales exponentes de la canción de autor española.,larga,,,
+es-0445,common_voice,wiki.es.txt,Mientras tanto el peligro acecha.,corta,,,
+es-0446,common_voice,wiki.es.txt,"El otro cadáver, por el contrario, nunca fue encontrado.",mediana,,,
+es-0447,propicto,,en la primera página de los periódicos patrick mclaren debe salir del país,larga,307554.0,text2picto,7041:à 8476:le 8474:une 7074:de 2813:journaux 36935:haut_du_corps 15523:devoir 11576:proposer 8476:le 35431:comme
+es-0448,propicto,,"Sin embargo, no está prohibido practicar ambas cosas.",mediana,470830.0,text2picto,6480:il 36480:être 11377:alors_que 9022:interdire 5526:non 7074:de 30604:pratiquer 5367:à_côté_de
+es-0449,propicto,,la formación se realiza directamente con un maestro,mediana,416392.0,text2picto,8476:le 8098:stage 6190:faire 36758:à_côté 2627:un 2457:maître
+es-0450,common_voice,wiki.es.txt,La experiencia de la injusticia es parte de la esencia del hombre.,larga,,,
+es-0451,propicto,,una balsa en plano trapezoidal probablemente estaba rodeada de cortinas con torres,larga,367401.0,text2picto,8474:une 5451:sur 24296:plan 36480:être 7813:sans 11696:doute 26396:entourer 7074:de 20391:sommet 7074:de 6232:tours
+es-0452,common_voice,wiki.es.txt,Frente a esta estrategia surgen diversas formas de respuesta.,mediana,,,
+es-0453,propicto,,las verduras son tratadas extensivamente,corta,277247.0,text2picto,8477:les 29131:légumes 7113:traiter
+es-0454,common_voice,wiki.es.txt,"Además, era un hombre interesado en política.",corta,,,
+es-0455,propicto,,es uno de los ocho sitios que componen las colinas de la ciudadela,larga,271187.0,text2picto,6480:il 6190:faire 27093:pièce 7074:de 4896:8 32598:lieux 11351:que 9201:compositeur_ 8477:les 7074:de 25411:château_fort
+es-0456,common_voice,wiki.es.txt,Es uno de los tres miembros que comenzaron a formar el grupo.,larga,,,
+es-0457,common_voice,wiki.es.txt,Escapulario guantes y sandalias.,corta,,,
+es-0458,common_voice,wiki.es.txt,"En el anime son importantes: la corteza, el exudado, fruto y madera.",larga,,,
+es-0459,propicto,,sus obras se encuentran en el contexto socio-cultural de la época,larga,486296.0,text2picto,12276:ses 9901:enregistrement 7034:dans 8476:le 7297:contexte 7074:de 8476:le 22631:époque
+es-0460,propicto,,el recorrido en el que se desarrolla el torneo fue dibujado por nicklaus,larga,388055.0,text2picto,8476:le 11393:itinéraire 5451:sur 9839:passé 8476:le 8088:dessiner 7212:par 36935:haut_du_corps
+es-0461,common_voice,wiki.es.txt,Esta actuación convocó a unas sesenta personas y se realizaron diversas construcciones básicas.,larga,,,
+es-0462,propicto,,El éxito del álbum populariza el single ahora multi-disco de platino,larga,98480.0,text2picto,8476:le 23371:succès 7074:de 8476:le 6039:album 8476:le 30213:vidéoclub 13026:désormais 7074:de
+es-0463,propicto,,en octubre se separaron del bajista drahco que fue reemplazado por niörd,larga,406101.0,text2picto,11709:au 35943:octobre 9839:passé 7032:ils 6893:se_séparer 7074:de 36115:bassiste 36935:haut_du_corps 11351:que 8053:remplacer 7212:par 36935:haut_du_corps
+es-0464,common_voice,wiki.es.txt,La familia de mudó a Australia cuándo eran seis hermanos.,mediana,,,
+es-0465,common_voice,wiki.es.txt,En las hornacinas se encuentran las imágenes de algunos grandes santos franciscanos.,larga,,,
+es-0466,common_voice,wiki.es.txt,"Nacido en Edo, desde muy temprana edad mostró señales de genialidad.",mediana,,,
+es-0467,propicto,,la temporada siguiente se fue del club waaslandian para el estándar de cero,larga,134369.0,text2picto,8476:le 5464:saison 27331:suivre 6480:il 11576:proposer 8476:le 29919:club_sportif 37544:groupe_parlementaire 7194:pour 8476:le 12333:association_à_but_non_lucratif
+es-0468,common_voice,wiki.es.txt,El resultado culminó en empate.,corta,,,
+es-0469,propicto,,alba era la ciudad de partida y la ciudad de llegada,mediana,476413.0,text2picto,9839:passé 2704:ville 36480:être 8476:le 2704:ville 7074:de 37684:départ 11399:et 2704:ville 8476:le 2704:ville 7074:de 16807:arrive
+es-0470,propicto,,casado tiene dos hijas y un hijo,corta,351987.0,text2picto,6965:marier 6480:il 32761:avoir 2628:deux 2484:enfant 11399:et 2627:un 9887:fils 3417:!
+es-0471,common_voice,wiki.es.txt,Los billetes son del mismo color que los actuales aunque en diferente tono.,larga,,,
+es-0472,propicto,,¿Qué pictogramas representan esta frase? tiene mucho problema en llegar al mar,larga,257158.0,text2picto,6480:il 32761:avoir 5521:beaucoup 7074:de 5504:pas_d'accord 7041:à 24208:attraper 8476:le 2925:mer
+es-0473,common_voice,wiki.es.txt,La principal producción agrícola de la isla fue la caña de azúcar.,larga,,,
+es-0474,common_voice,wiki.es.txt,A partir de ahí participó en el movimiento revolucionario ucraniano.,mediana,,,
+es-0475,common_voice,wiki.es.txt,No se da información específica sobre el origen o pasado de Rei.,larga,,,
+es-0476,common_voice,wiki.es.txt,"Ocasionando así la euforia de todos los presentes, que acompañaron con palmas y cánticos.",larga,,,
+es-0477,propicto,,Daniel se ve vestido de diácono con una toalla y un cubo de lavado,larga,100938.0,text2picto,37779:quelqu'un 33992:porte-parole 11709:au 7074:de 30824:religieuse 6553:porter 8474:une 2569:serviette 11399:et 8474:une 35353:bassine 7074:de 24378:tabernacle
+es-0478,common_voice,wiki.es.txt,Participó en la conquista de Mallorca.,corta,,,
+es-0479,propicto,,su palmarés cuenta actualmente con cuatro títulos de campeón y cinco copas nacionales,larga,161798.0,text2picto,12272:son 37544:groupe_parlementaire 2714:compter 9848:courant 2630:quatre 37406:titre 7074:de 11578:champion 11399:et 6979:5 3162:gagner_un_prix 35431:comme
+es-0480,propicto,,¿en qué se basaría para hacerme un regalo así?,mediana,146479.0,text2picto,5451:sur 22620:quoi 7304:vous 36480:être 7304:vous 7194:pour 6632:me 6190:faire 2627:un 4667:même 9848:courant
+es-0481,common_voice,wiki.es.txt,Algunas especies carecen de limbo.,corta,,,
+es-0482,propicto,,pero estas fuerzas se vieron obligadas a retroceder y miller renunció a abandonar arkhangelsk,larga,186348.0,text2picto,11377:alors_que 7096:ceux-là 7074:de 5544:plier 11399:et 36935:haut_du_corps 7041:à 11576:proposer 2704:ville
+es-0483,common_voice,wiki.es.txt,El liceo organiza eventos escolares japoneses.,corta,,,
+es-0484,common_voice,wiki.es.txt,"Ocasionalmente, las manchas son amarillas o aún negras.",mediana,,,
+es-0485,common_voice,wiki.es.txt,El dibujo y el modelado es otra materia que los escolares hacen como manualidades.,larga,,,
+es-0486,common_voice,wiki.es.txt,La película tuvo reconocimiento nacional e internacional.,corta,,,
+es-0487,propicto,,la ciudad también tiene una iglesia anglicana dedicada a san giles,mediana,125184.0,text2picto,9839:passé 8476:le 2704:ville 32761:avoir 8474:une 3118:église 7041:à 36935:haut_du_corps
+es-0488,common_voice,wiki.es.txt,Vuelve luego a Portugal.,corta,,,
+es-0489,propicto,,la orden de arresto especifica los cargos que pesan contra la orden,larga,475400.0,text2picto,8476:le 37822:ordre 7074:de 8087:arrêter 16705:expliquer 8477:les 11351:que 4717:peser 7067:contre 8476:le 37822:ordre
+es-0490,propicto,,estaba en la diócesis de Béziers,corta,178665.0,text2picto,9839:passé 6480:il 36392:se_trouver 7034:dans 8476:le 2704:ville
+es-0491,common_voice,wiki.es.txt,Comenzó a jugar en Pucará a los cuatro años.,mediana,,,
+es-0492,common_voice,wiki.es.txt,Se empezó a compartir algunos poderes con un consejo de gobierno provisional iraquí.,larga,,,
+es-0493,common_voice,wiki.es.txt,No es tan gracioso como Carrey.,corta,,,
+es-0494,propicto,,los subedar generalmente tienen secciones,corta,416019.0,text2picto,8477:les 37544:groupe_parlementaire 36329:commander 5374:plusieurs 9877:fraction
+es-0495,common_voice,wiki.es.txt,"Para la secuela, el sistema del combate completo fue reelaborado del juego original.",larga,,,
+es-0496,common_voice,wiki.es.txt,Comienzan a sufrir falta de víveres y algunas deserciones.,mediana,,,
+es-0497,common_voice,wiki.es.txt,Ninguna lista puede contener menos nombres que el número de escaños vacantes.,larga,,,
+es-0498,propicto,,ella soporta las tentaciones pero resiste por trabajo y oración,mediana,328908.0,text2picto,9839:passé 7028:elle 8477:les 11377:alors_que 32338:désagréable 7212:par 8476:le 16087:emploi 11399:et 8476:le 30850:notre_père
+es-0499,common_voice,wiki.es.txt,Es una de las primeras facultades inauguradas de la universidad.,mediana,,,
+es-0500,propicto,,stella ross-craig nació en aldershot sus padres son escoceses su padre es químico,larga,438543.0,text2picto,37779:quelqu'un 36935:haut_du_corps 37980:naître 7041:à 2704:ville 12276:ses 35062:parents 36480:être 12272:son 2497:père 36480:être
+es-0501,common_voice,wiki.es.txt,"Era ciego, y ahora veo.",corta,,,
+es-0502,propicto,,la comuna se cruza de este a oeste por el río wimereux,larga,517992.0,text2picto,8476:le 38586:village 37344:traverser_ 7074:de 8114:est 11709:au 8179:ouest 7212:par 8476:le 2811:rivière 2704:ville
+es-0503,propicto,,existen varias posibilidades que tienen ventajas y desventajas,mediana,496101.0,text2picto,5374:plusieurs 37861:décider 5581:exister 11351:que 16823:montrer 11399:et
+es-0504,common_voice,wiki.es.txt,"Hasta entonces fue un territorio tribal independiente, aunque nominalmente afgano.",mediana,,,
+es-0505,propicto,,rodea la ciudad de este al noroeste,corta,453676.0,text2picto,7028:elle 32520:slalom 8476:le 2704:ville 7074:de 8476:le 8114:est 11709:au 27915:no
+es-0506,common_voice,wiki.es.txt,La Asamblea era unicameral.,corta,,,
+es-0507,common_voice,wiki.es.txt,Varios se estrellaron en servicio y era difícil obtener piezas de repuesto.,larga,,,
+es-0508,propicto,,¿Qué pictogramas representan esta frase? es un edificio orientado a plano en cruz latina,larga,260436.0,text2picto,9839:passé 7095:celui-là 36480:être 2627:un 5989:bâtiment 16825:orienter 7074:de 24296:plan 11709:au 32697:latin
+es-0509,propicto,,queda trabajo es innegable,corta,346504.0,text2picto,6480:il 27206:rester 11712:du 16087:emploi 7095:celui-là 36480:être 37779:quelqu'un
+es-0510,propicto,,se dedicó a nuestra señora de la concepción inmaculada,mediana,444556.0,text2picto,7028:elle 29828:mettre_des_gouttes 7041:à 12268:notre 4703:dame 7074:de 8476:le
+es-0511,propicto,,¿Cuántas personas hay aproximadamente,corta,164958.0,text2picto,24731:combien 9001:il_y_a 3042:t 6480:il 7074:de 34560:personne 7212:par
+es-0512,common_voice,wiki.es.txt,Para asegurarnos de que sus fanáticos sean felices.,mediana,,,
+es-0513,common_voice,wiki.es.txt,Se dio a conocer como una de las integrantes del grupo Camela.,larga,,,
+es-0514,common_voice,wiki.es.txt,Los combates en los alrededores de Petrogrado tampoco habían cesado.,mediana,,,
+es-0515,common_voice,wiki.es.txt,"Fue enterrado allí, en la capilla franciscana.",corta,,,
+es-0516,propicto,,Francia propone que los inmigrantes firmen un contrato de integración,mediana,417750.0,text2picto,8476:le 8121:france 11576:proposer 8476:le 12317:signature 7212:par 8477:les 25644:immigrer 7074:de 2627:un 25696:accord 7074:de 22787:intégration
+es-0517,common_voice,wiki.es.txt,Tuvo una muy buena educación literaria.,corta,,,
+es-0518,common_voice,wiki.es.txt,Es además sede del municipio homónimo.,corta,,,
+es-0519,propicto,,debajo de la cúpula se encuentra un amor desarmado,mediana,277184.0,text2picto,5437:en_dessous 8476:le 36514:rotonde 24742:trouver 2627:un 37799:chéri
+es-0520,common_voice,wiki.es.txt,Fue un matemático y astrónomo.,corta,,,
+es-0521,propicto,,Brasil es hoy el mayor productor y consumidor de arroz occidental,mediana,469631.0,text2picto,8476:le 8044:brésil 36480:être 38276:aujourd'hui 8476:le 4658:grand 37876:producteur 11399:et 28665:client 7074:de 25556:riz 7074:de 2704:ville
+es-0522,propicto,,no corrías con alice del golpe,corta,283712.0,text2picto,9839:passé 6625:toi 6465:courir 5526:non 7064:avec 37779:quelqu'un
+es-0523,common_voice,wiki.es.txt,Se encuentra en Barbados.,corta,,,
+es-0524,common_voice,wiki.es.txt,Celta de Vigo en toda su historia.,corta,,,
+es-0525,propicto,,se muda a la ciudad de Noirmont,corta,500224.0,text2picto,7028:elle 38822:déménagement 11709:au 2704:ville
+es-0526,common_voice,wiki.es.txt,"Fue un próspero centro de actividad marítima, y posteriormente fue un pequeño núcleo industrial.",larga,,,
+es-0527,common_voice,wiki.es.txt,"Casi desde su invención, las aeronaves fueron puestas al servicio militar.",mediana,,,
+es-0528,propicto,,¿Qué pictogramas representan esta frase? se construyeron escuelas en las ciudades cercanas a la iglesia,larga,249490.0,text2picto,5374:plusieurs 3082:école 25988:bâtir 7034:dans 8477:les 5963:cité 5367:à_côté_de 8476:le 3118:église
+es-0529,propicto,,a menudo todavía faltan datos sobre los efectos secundarios y la toxicología,larga,464315.0,text2picto,31672:nous 32360:manquer 37163:une_autre_fois 37029:souvent 7074:de 30010:données_personnelles 5451:sur 8477:les 32294:enseignement_supérieur 11399:et 8476:le
+es-0530,common_voice,wiki.es.txt,La compañía de su padre tenía para entonces tres años en funcionamiento.,larga,,,
+es-0531,common_voice,wiki.es.txt,Destaca una pirámide invertida que fue inaugurada con la primera etapa del complejo.,larga,,,
+es-0532,propicto,,ella les adelanta en el sprint y así obtiene su primera victoria profesional,larga,101063.0,text2picto,7028:elle 8477:les 7218:gagner 11709:au 11399:et 24208:attraper 12272:son 4726:premier 23371:succès 7795:métier
+es-0533,common_voice,wiki.es.txt,"Además, sus obras incluyen múltiples referencias a la mitología y cultura galesa.",larga,,,
+es-0534,propicto,,si no se le da regularmente la comida puede volverse contra él y devotarlo,larga,441436.0,text2picto,6480:il 11176:nourrir 5526:non 37029:souvent 6480:il 35949:pouvoir 26728:se_retourner 7067:contre 6481:lui 11399:et 8476:le 6456:comestible
+es-0535,propicto,,este método como se explicó anteriormente se basa en el efecto doppler,larga,136160.0,text2picto,9839:passé 8476:le 27403:méthode 12313:comme 27319:précédent 16705:expliquer 16643:se_reposer 5451:sur 8476:le
+es-0536,common_voice,wiki.es.txt,Participó en los salones de París.,corta,,,
+es-0537,common_voice,wiki.es.txt,Empezó a participar en elecciones regionales.,corta,,,
+es-0538,common_voice,wiki.es.txt,Es la isla más oriental del país.,corta,,,
+es-0539,propicto,,roger peterson el piloto no está calificado para volar con instrumentos,mediana,165173.0,text2picto,36935:haut_du_corps 8476:le 19552:pilote_de_course 36480:être 5526:non 7194:pour 6246:voler 7041:à 38091:instrument
+es-0540,common_voice,wiki.es.txt,Él acepta y se angustia cuando se da cuenta de lo que ha hecho.,larga,,,
+es-0541,propicto,,como padre como hijo,corta,207599.0,text2picto,4667:même 2497:père 4667:même 9887:fils
+es-0542,propicto,,rápidamente gana muchos distinciones y elogios de su entrenador,mediana,426897.0,text2picto,7028:elle 7218:gagner 5306:rapidement 7074:de 7168:nombreux 11399:et 8477:les 13018:féliciter 7074:de 12272:son 5991:entraîneur
+es-0543,common_voice,wiki.es.txt,A menudo tienen una roseta basal de hojas.,mediana,,,
+es-0544,propicto,,poco después comienza a usar el material plástico,mediana,334171.0,text2picto,5546:peu 7074:de 22631:époque 32749:après 6480:il 5431:commencer 7041:à 15485:utiliser 8476:le 34796:matière_scolaire 10288:plastique
+es-0545,propicto,,¿Por qué me dices tú mismo?,corta,189738.0,text2picto,24763:pourquoi 6632:me 9693:dire 6625:toi 7304:vous
+es-0546,propicto,,de vuelta en poti se hicieron reparaciones en el coraza,mediana,15501.0,text2picto,6630:retourner 7041:à 2704:ville 5374:plusieurs 38652:restaurer 5451:sur 8476:le
+es-0547,common_voice,wiki.es.txt,A veces cursa con insuficiencia renal rápida por infartos múltiples.,mediana,,,
+es-0548,common_voice,wiki.es.txt,Registrarse al portal es gratuito.,corta,,,
+es-0549,common_voice,wiki.es.txt,"La planta primera poseía balcones, la segunda, antepechos y la tercera, ventanas sencillas.",larga,,,
+es-0550,common_voice,wiki.es.txt,"Hoy en día, las canciones de Liszt han caído prácticamente en el olvido.",larga,,,
+es-0551,common_voice,wiki.es.txt,El edificio está abierto a visitas guiadas.,corta,,,
+es-0552,propicto,,generalmente conservador profundamente cristiano combina el liberalismo económico y el socialismo,mediana,119969.0,text2picto,25033:chrétien 6480:il 5515:mélanger 36364:économie 11399:et 11725:politique 8693:société
+es-0553,common_voice,wiki.es.txt,Es un caso particular de homonimia.,corta,,,
+es-0554,common_voice,wiki.es.txt,"En estos dos textos se recogen, como fragmentos, pensamientos cortos, reflexiones y citas.",larga,,,
+es-0555,propicto,,también está relacionado con el efecto nefelauxético,corta,404310.0,text2picto,6480:il 3423:égal 32276:ficeler 7041:à 8476:le
+es-0556,common_voice,wiki.es.txt,Con la llegada del franquismo debe exiliarse a Portugal.,mediana,,,
+es-0557,common_voice,wiki.es.txt,Está completamente cubierta por el hielo.,corta,,,
+es-0558,common_voice,wiki.es.txt,"Un mes más tarde, Mr.",corta,,,
+es-0559,common_voice,wiki.es.txt,La planta baja presenta mampostería vista.,corta,,,
+es-0560,common_voice,wiki.es.txt,Mientras su madre trabajaba de limpiadora.,corta,,,
+es-0561,propicto,,también se conoce con otros nombres vernáculos,corta,412330.0,text2picto,7028:elle 8456:connaître 5437:en_dessous 7074:de 17056:autres 38570:nom 35431:comme
+es-0562,propicto,,cyrus smith no respondió,corta,206841.0,text2picto,9839:passé 36935:haut_du_corps 9031:répondre_à_l’oral 5526:non
+es-0563,common_voice,wiki.es.txt,Como compositor se conservan unas setenta y cinco obras.,mediana,,,
+es-0564,common_voice,wiki.es.txt,La isla está completamente cubierta de nieve.,corta,,,
+es-0565,propicto,,sus trayectorias eran perfectas,corta,459302.0,text2picto,9839:passé 12276:ses 36480:être 38006:impeccable
+es-0566,propicto,,hoy estamos en medio del gué,corta,177475.0,text2picto,31672:nous 36480:être 38276:aujourd'hui 5449:au_milieu 7074:de
+es-0567,common_voice,wiki.es.txt,Su presencia es incierta en Guyana.,corta,,,
+es-0568,propicto,,se apaga y responde el reportero,corta,448797.0,text2picto,9839:passé 6480:il 11611:qu'as-tu_dit? 8476:le 37163:une_autre_fois 6553:porter
+es-0569,common_voice,wiki.es.txt,"Alonso de Monroy, perdido el apoyo de los reyes católicos, se hizo su enemigo.",larga,,,
+es-0570,common_voice,wiki.es.txt,Nunca está satisfecho con lo que se le da.,mediana,,,
+es-0571,common_voice,wiki.es.txt,"Allí llevó una vida tranquila, a salvo de un posible atentado contra su vida.",larga,,,
+es-0572,propicto,,con usted godfrey sí,corta,495487.0,text2picto,7064:avec 7304:vous 36935:haut_du_corps 5584:oui
+es-0573,propicto,,los hijos y nietos de togō también sirvieron en la armada imperial japonesa,larga,97701.0,text2picto,9829:prochain 8477:les 9887:fils 11399:et 10343:petit-fils 7074:de 36935:haut_du_corps 7247:servir 3423:égal 7034:dans 8476:le 37544:groupe_parlementaire 8144:japon
+es-0574,propicto,,la fachada de la capilla está enmarcada por dos edificios masivos,mediana,497243.0,text2picto,8476:le 8266:façade 7074:de 8476:le 29963:chapelle 36480:être 22633:instant 7212:par 2628:deux 35859:bâtiments 38261:cordillère
+es-0575,common_voice,wiki.es.txt,Sobre ellas solía colocarse otra piedra horizontal a modo de tapa.,mediana,,,
+es-0576,propicto,,la palabra es para el señor sergio coronado,mediana,340162.0,text2picto,8476:le 11611:qu'as-tu_dit? 36480:être 7041:à 4744:monsieur 36935:haut_du_corps
+es-0577,common_voice,wiki.es.txt,Tú lo vas a hacer.,corta,,,
+es-0578,common_voice,wiki.es.txt,Las únicas zonas planas eran las aledañas al valle del Magdalena.,mediana,,,
+es-0579,propicto,,"Sí, pero tú no eres el mismo Fulbert",mediana,197579.0,text2picto,5584:oui 11377:alors_que 6625:toi 7095:celui-là 36480:être 5526:non 32392:pareil 36935:haut_du_corps
+es-0580,common_voice,wiki.es.txt,"Ante los nuevos antecedentes, el fiscal Trotter retira todos los cargos.",mediana,,,
+es-0581,propicto,,cada año recibe peregrinaciones para enfermos y para las parroquias,mediana,11607.0,text2picto,6480:il 27125:visite 5596:tout 6903:année 5374:plusieurs 35713:faire_un_pèlerinage 7194:pour 8477:les 33926:malades 11399:et 7194:pour 8477:les
+es-0582,common_voice,wiki.es.txt,"Las hojas son basales, lineales, planas y están presente todo el año.",larga,,,
+es-0583,propicto,,francisco petis de la cruz dejó un manuscrito de la traducción francesa del libro,larga,432218.0,text2picto,9839:passé 36935:haut_du_corps 21793:s'en_aller 11709:au 8474:une 36367:français 7074:de 8476:le 9809:couture
+es-0584,propicto,,ahí es donde comenzó las negociaciones,corta,40658.0,text2picto,7095:celui-là 36480:être 5375:là 11351:que 9839:passé 7028:elle 8477:les 16004:contrer
+es-0585,common_voice,wiki.es.txt,Juega como atacante lateral.,corta,,,
+es-0586,propicto,,"por lo tanto, renuncie a todos estos mandatos y funciones",mediana,218981.0,text2picto,6480:il 27393:arrêter 11709:au 7041:à 5596:tout 7092:ces 11399:et
+es-0587,propicto,,cuidado señor dick dice joe mientras respira,corta,291821.0,text2picto,25618:attention 9839:passé 4744:monsieur 36935:haut_du_corps 9693:dire 36935:haut_du_corps 11709:au 34377:respirer 3417:!
+es-0588,propicto,,el país es austero,corta,369295.0,text2picto,8476:le 35431:comme 36480:être
+es-0589,propicto,,fue su primer entrenador,corta,59987.0,text2picto,9839:passé 6480:il 36480:être 12272:son 4726:premier 5991:entraîneur
+es-0590,propicto,,es parte de la familia de los parejos,mediana,315283.0,text2picto,6480:il 6190:faire 27093:pièce 7074:de 8476:le 38351:famille 7074:de
+es-0591,common_voice,wiki.es.txt,"Por ello, hasta donde se sabe, no es hereditario.",mediana,,,
+es-0592,propicto,,que debería haber pensado,corta,130031.0,text2picto,9839:passé 6632:me 15523:devoir 38796:penser
+es-0593,common_voice,wiki.es.txt,Los comentarios sobre este episodio fueron en general positivos.,mediana,,,
+es-0594,propicto,,¿Sabes lo que Dios le dice al niño que va a nacer?,larga,333634.0,text2picto,16885:savoir 9829:prochain 6625:toi 7095:celui-là 11351:que 35069:dieu 9693:dire 7041:à 8476:le 7176:garçon 11351:que 37980:naître 3417:!
+es-0595,common_voice,wiki.es.txt,Este complejo data de la cultura pre-inca Chachapoyas.,mediana,,,
+es-0596,common_voice,wiki.es.txt,Juega mayoritariamente como defensor central pegado a la derecha.,mediana,,,
+es-0597,common_voice,wiki.es.txt,Aún hoy en día existen clubes Sokol en estos países.,mediana,,,
+es-0598,propicto,,se acompaña de otros mendigos niños para algunos,mediana,236844.0,text2picto,6480:il 37485:emmener 7074:de 17056:autres 4723:indigent 6975:enfants 7194:pour 5374:plusieurs
+es-0599,common_voice,wiki.es.txt,"Sin embargo, su muerte no abrió paso a una mayor democracia.",mediana,,,
+es-0600,common_voice,wiki.es.txt,"Si no, el juego continúa.",corta,,,
